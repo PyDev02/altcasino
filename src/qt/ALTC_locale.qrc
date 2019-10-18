@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/ALTC_bg.qm</file>
+        <file alias="ca">locale/ALTC_ca.qm</file>
+        <file alias="cs">locale/ALTC_cs.qm</file>
+        <file alias="da">locale/ALTC_da.qm</file>
+        <file alias="de">locale/ALTC_de.qm</file>
+        <file alias="en">locale/ALTC_en.qm</file>
+        <file alias="en_US">locale/ALTC_en_US.qm</file>
+        <file alias="eo">locale/ALTC_eo.qm</file>
+        <file alias="es">locale/ALTC_es.qm</file>
+        <file alias="es_ES">locale/ALTC_es_ES.qm</file>
+        <file alias="fi">locale/ALTC_fi.qm</file>
+        <file alias="fr_FR">locale/ALTC_fr_FR.qm</file>
+        <file alias="hi_IN">locale/ALTC_hi_IN.qm</file>
+        <file alias="hr">locale/ALTC_hr.qm</file>
+        <file alias="hr_HR">locale/ALTC_hr_HR.qm</file>
+        <file alias="it">locale/ALTC_it.qm</file>
+        <file alias="ja">locale/ALTC_ja.qm</file>
+        <file alias="ko_KR">locale/ALTC_ko_KR.qm</file>
+        <file alias="lt_LT">locale/ALTC_lt_LT.qm</file>
+        <file alias="nl">locale/ALTC_nl.qm</file>
+        <file alias="pl">locale/ALTC_pl.qm</file>
+        <file alias="pt">locale/ALTC_pt.qm</file>
+        <file alias="pt_BR">locale/ALTC_pt_BR.qm</file>
+        <file alias="ro_RO">locale/ALTC_ro_RO.qm</file>
+        <file alias="ru">locale/ALTC_ru.qm</file>
+        <file alias="sk">locale/ALTC_sk.qm</file>
+        <file alias="sv">locale/ALTC_sv.qm</file>
+        <file alias="tr">locale/ALTC_tr.qm</file>
+        <file alias="uk">locale/ALTC_uk.qm</file>
+        <file alias="vi">locale/ALTC_vi.qm</file>
+        <file alias="zh_CN">locale/ALTC_zh_CN.qm</file>
+        <file alias="zh_TW">locale/ALTC_zh_TW.qm</file>
+    </qresource>
+</RCC>
