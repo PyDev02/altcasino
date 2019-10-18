@@ -62,12 +62,12 @@
         <translation>Mottagar adresser</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Det här är dina Pulse adresser för att skicka betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
+        <source>These are your ALTC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Det här är dina ALTC adresser för att skicka betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Det här är dina Pulse adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
+        <source>These are your ALTC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Det här är dina ALTC adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Bekräfta plånboks krypering</translation>
     </message>
     <message>
-        <source>Pulse will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
-        <translation>Pulse kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina ALTCs från att bli stulna av skadeprogram som infekterat din dator.</translation>
+        <source>ALTC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
+        <translation>ALTC kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina ALTCs från att bli stulna av skadeprogram som infekterat din dator.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -254,12 +254,12 @@
         <translation>Adress:</translation>
     </message>
     <message>
-        <source>Enter a Pulse Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Fyll i en Pulse Adress som du skulle vilja cryptera med BIP 38. Skriv in en lösenfras i den mittersta lådan. Tryck kryptera för att beräkna fram den krypterade privata nyckeln.</translation>
+        <source>Enter a ALTC Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Fyll i en ALTC Adress som du skulle vilja cryptera med BIP 38. Skriv in en lösenfras i den mittersta lådan. Tryck kryptera för att beräkna fram den krypterade privata nyckeln.</translation>
     </message>
     <message>
-        <source>The Pulse address to encrypt</source>
-        <translation>Pulse adressen som ska krypteras</translation>
+        <source>The ALTC address to encrypt</source>
+        <translation>ALTC adressen som ska krypteras</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Pulse address</source>
-        <translation>Kryptera den privata nyckeln för denna Pulse adressen</translation>
+        <source>Encrypt the private key for this ALTC address</source>
+        <translation>Kryptera den privata nyckeln för denna ALTC adressen</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,12 +645,12 @@
         <translation>flik vertygsrad</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Kärna</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Kärna</translation>
     </message>
     <message>
-        <source>Send coins to a Pulse address</source>
-        <translation>Skicka mynt till en Pulse adress</translation>
+        <source>Send coins to a ALTC address</source>
+        <translation>Skicka mynt till en ALTC adress</translation>
     </message>
     <message>
         <source>Request Payments (generates QR codes and ALTC: URIs)</source>
@@ -669,24 +669,24 @@
         <translation>Utforska masternoder</translation>
     </message>
     <message>
-        <source>&amp;About Pulse Core</source>
-        <translation>Om Pulse Kärnan</translation>
+        <source>&amp;About ALTC Core</source>
+        <translation>Om ALTC Kärnan</translation>
     </message>
     <message>
-        <source>Show information about Pulse Core</source>
-        <translation>Visa information om Pulse Kärnan</translation>
+        <source>Show information about ALTC Core</source>
+        <translation>Visa information om ALTC Kärnan</translation>
     </message>
     <message>
-        <source>Modify configuration options for Pulse</source>
-        <translation>Ändra konfigurationsval för Pulse</translation>
+        <source>Modify configuration options for ALTC</source>
+        <translation>Ändra konfigurationsval för ALTC</translation>
     </message>
     <message>
-        <source>Sign messages with your Pulse addresses to prove you own them</source>
-        <translation>Signera meddelanden med din Pulse adress för att visa att du äger dem</translation>
+        <source>Sign messages with your ALTC addresses to prove you own them</source>
+        <translation>Signera meddelanden med din ALTC adress för att visa att du äger dem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Pulse addresses</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika Pulse adressen.</translation>
+        <source>Verify messages to ensure they were signed with specified ALTC addresses</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika ALTC adressen.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Öppna Huvudnodens konfigurations fil </translation>
     </message>
     <message>
-        <source>Open a Pulse: URI or payment request</source>
-        <translation>Öppna en Pulse: URI eller betalningsförfrågan</translation>
+        <source>Open a ALTC: URI or payment request</source>
+        <translation>Öppna en ALTC: URI eller betalningsförfrågan</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Blockera utforskarfönstret</translation>
     </message>
     <message>
-        <source>Show the Pulse Core help message to get a list with possible Pulse command-line options</source>
-        <translation>Visa Pulse Core hjälp meddelande för att få en lista med möjliga Pulse kommandorad alternativ</translation>
+        <source>Show the ALTC Core help message to get a list with possible ALTC command-line options</source>
+        <translation>Visa ALTC Core hjälp meddelande för att få en lista med möjliga ALTC kommandorad alternativ</translation>
     </message>
     <message>
-        <source>Pulse Core client</source>
-        <translation>Pulse kärn klient</translation>
+        <source>ALTC Core client</source>
+        <translation>ALTC kärn klient</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Pulse network</source>
-        <translation><numerusform>%n aktiv(a) annslutning(ar) till Pulse nätverket</numerusform><numerusform>%n aktiv(a) annslutning(ar) till Pulse nätverket</numerusform></translation>
+        <source>%n active connection(s) to ALTC network</source>
+        <translation><numerusform>%n aktiv(a) annslutning(ar) till ALTC nätverket</numerusform><numerusform>%n aktiv(a) annslutning(ar) till ALTC nätverket</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1185,8 +1185,8 @@ MultiSend: %1</translation>
         <translation>Redigera skickande adress</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Pulse address.</source>
-        <translation>Den inmatade adressen "%1" är ej en giltig Pulse adress.</translation>
+        <source>The entered address "%1" is not a valid ALTC address.</source>
+        <translation>Den inmatade adressen "%1" är ej en giltig ALTC adress.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ MultiSend: %1</translation>
         <translation>version</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Kärna</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Kärna</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Pulse Core</source>
-        <translation>Om Pulse Kärna</translation>
+        <source>About ALTC Core</source>
+        <translation>Om ALTC Kärna</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ MultiSend: %1</translation>
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to Pulse Core.</source>
-        <translation>Välkommen till Pulse Core.</translation>
+        <source>Welcome to ALTC Core.</source>
+        <translation>Välkommen till ALTC Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Pulse Core will store its data.</source>
-        <translation>Eftersom detta är första gången programmet körs så kan du välja var Pulse Core ska spara sin data.</translation>
+        <source>As this is the first time the program is launched, you can choose where ALTC Core will store its data.</source>
+        <translation>Eftersom detta är första gången programmet körs så kan du välja var ALTC Core ska spara sin data.</translation>
     </message>
     <message>
-        <source>Pulse Core will download and store a copy of the Pulse block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Pulse Kärnan kommer ladda ner och spara en kopia av Pulse block chain. Minst %1GB data kommer sparas i denna katalog och den kommer växa med tiden. Plånboken kommer också sparas i denna katalog.</translation>
+        <source>ALTC Core will download and store a copy of the ALTC block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>ALTC Kärnan kommer ladda ner och spara en kopia av ALTC block chain. Minst %1GB data kommer sparas i denna katalog och den kommer växa med tiden. Plånboken kommer också sparas i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ MultiSend: %1</translation>
         <translation>Använd en skräddarsydd data katalog</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ MultiSend: %1</translation>
         <translation>Mata in Adress att Skicka till</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Pulse addresses after it matures.
-To Add: enter percentage to give and Pulse address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other ALTC addresses after it matures.
+To Add: enter percentage to give and ALTC address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend tillåter dig att automatiskt skicka upp till 100% av dina staking eller huvudnod belöningar till en lista av andra Pulse adresser efter att belöningarna har mognat.
-För att Lägga till: Ange procent att ge och Pulse adress för att lägga till i MultiSend vektorn.
+        <translation>MultiSend tillåter dig att automatiskt skicka upp till 100% av dina staking eller huvudnod belöningar till en lista av andra ALTC adresser efter att belöningarna har mognat.
+För att Lägga till: Ange procent att ge och ALTC adress för att lägga till i MultiSend vektorn.
 För att Ta Bort: Ange adressen som ska tas bort och tryck ta bort.
 MultiSend kommer inte aktiveras om du inte tryckt på Aktivera</translation>
     </message>
@@ -1811,16 +1811,16 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Fördunkling Konfiguration</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Pulse's configuration screen.</source>
-        <translation>Fördunkling sattes framgångsrikt till grundläggande (%1 och 2 rundor). Du kan ändra det här när du vill genom att öppna Pulse's konfigurationsskärm.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening ALTC's configuration screen.</source>
+        <translation>Fördunkling sattes framgångsrikt till grundläggande (%1 och 2 rundor). Du kan ändra det här när du vill genom att öppna ALTC's konfigurationsskärm.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Pulse's configuration screen.</source>
-        <translation>Fördunkling sattes framgångsrikt till hög (%1 och 8 rundor). Du kan ändra det här när du vill genom att öppna Pulse's konfigurationsskärm.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening ALTC's configuration screen.</source>
+        <translation>Fördunkling sattes framgångsrikt till hög (%1 och 8 rundor). Du kan ändra det här när du vill genom att öppna ALTC's konfigurationsskärm.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Pulse's configuration screen.</source>
-        <translation>Fördunkling sattes framgångsrikt till maximal (%1 och 16 rundor). Du kan ändra det här när du vill genom att öppna Pulse's konfigurationsskärm.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening ALTC's configuration screen.</source>
+        <translation>Fördunkling sattes framgångsrikt till maximal (%1 och 16 rundor). Du kan ändra det här när du vill genom att öppna ALTC's konfigurationsskärm.</translation>
     </message>
 </context>
 <context>
@@ -1877,8 +1877,8 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Om du avaktiverar spenderandet av okonfirmerad växel så kommer växeln från en transaktion &lt;br/&gt;ej kunna användas föräns transaktionen har minst en bekräftelse. &lt;br/&gt; Detta påverkar även hur ditt saldo beräknas.</translation>
     </message>
     <message>
-        <source>Automatically open the Pulse client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Pulse klient porten på denna router. Detta funkar endast om din router stödjer UPnP och är påslaget.</translation>
+        <source>Automatically open the ALTC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt ALTC klient porten på denna router. Detta funkar endast om din router stödjer UPnP och är påslaget.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1893,12 +1893,12 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start Pulse after logging in to the system.</source>
-        <translation>Starta Pulse automatiskt efter inloggning på systemet.</translation>
+        <source>Automatically start ALTC after logging in to the system.</source>
+        <translation>Starta ALTC automatiskt efter inloggning på systemet.</translation>
     </message>
     <message>
-        <source>&amp;Start Pulse on system login</source>
-        <translation>&amp;Starta Pulse vid systeminloggning</translation>
+        <source>&amp;Start ALTC on system login</source>
+        <translation>&amp;Starta ALTC vid systeminloggning</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1921,8 +1921,8 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>&amp;Nätverk</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Pulse.</source>
-        <translation>Användargränssnittets språk kan väljas här. Denna inställning börjar gälla efter att man startat om Pulse.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting ALTC.</source>
+        <translation>Användargränssnittets språk kan väljas här. Denna inställning börjar gälla efter att man startat om ALTC.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1963,8 +1963,8 @@ https://www.transifex.com/ALTC-project/ALTC-project-translations</translation>
         <translation>Staking delnings tröskel:</translation>
     </message>
     <message>
-        <source>Connect to the Pulse network through a SOCKS5 proxy.</source>
-        <translation>Anslut till Pulse nätverket via en SOCKS5 proxy.</translation>
+        <source>Connect to the ALTC network through a SOCKS5 proxy.</source>
+        <translation>Anslut till ALTC nätverket via en SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2130,8 +2130,8 @@ https://www.transifex.com/ALTC-project/ALTC-project-translations</translation>
         <translation>Nuvarande låst saldo endast i "watch only" adresser</translation>
     </message>
     <message>
-        <source>Your current Pulse balance, unconfirmed and immature transactions included</source>
-        <translation>Ditt nuvarande Pulse saldo, obekräftade och omogna transaktioner är inkluderade</translation>
+        <source>Your current ALTC balance, unconfirmed and immature transactions included</source>
+        <translation>Ditt nuvarande ALTC saldo, obekräftade och omogna transaktioner är inkluderade</translation>
     </message>
     <message>
         <source>zALTC Balance</source>
@@ -2150,8 +2150,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Omogna: bekräftade men under 1 myntning av samma valör efter den blev präglad</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pulse network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med Pulse nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ALTC network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med ALTC nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2267,8 +2267,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i A
         <translation>Kan ej starta ALTC: klicka-för-att-betala hanterare</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Pulse address or malformed URI parameters.</source>
-        <translation>URI kunde ej analyseras! Detta kan orsakas av en ogiltig Pulse adress eller felproducerade URI parametrar.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid ALTC address or malformed URI parameters.</source>
+        <translation>URI kunde ej analyseras! Detta kan orsakas av en ogiltig ALTC adress eller felproducerade URI parametrar.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2353,8 +2353,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i A
         <translation>Zerocoin Handlingar:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pulse network after a connection is established, but this process has not completed yet.</source>
-        <translation>nformationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med Pulse nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ALTC network after a connection is established, but this process has not completed yet.</source>
+        <translation>nformationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med ALTC nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2477,8 +2477,8 @@ zALTC är mogna när de har över 20 bekräftelser OCH över 2 präglingar av sa
         <translation>Betala &amp;Till:</translation>
     </message>
     <message>
-        <source>The Pulse address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Pulse adress att skicka betalningen till. Skapar betalning till dig själv när den är tom.</translation>
+        <source>The ALTC address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>ALTC adress att skicka betalningen till. Skapar betalning till dig själv när den är tom.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2905,8 +2905,8 @@ Högsta tillåtna:</translation>
         <translation>Ingen 'Betala Till' adress inmatad, skapar lokal betalning</translation>
     </message>
     <message>
-        <source>Invalid Pulse Address</source>
-        <translation>Ogiltig Pulse Adress</translation>
+        <source>Invalid ALTC Address</source>
+        <translation>Ogiltig ALTC Adress</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -3007,8 +3007,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Mängd</translation>
     </message>
     <message>
-        <source>Enter a Pulse address (e.g. %1)</source>
-        <translation>Mata in en Pulse adress (e.g. %1)</translation>
+        <source>Enter a ALTC address (e.g. %1)</source>
+        <translation>Mata in en ALTC adress (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3137,8 +3137,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Blockchain</translation>
     </message>
     <message>
-        <source>Open the Pulse debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Pulse felsökningslogg från den nuvarande data katalogen. Detta kan ta några sekunder för stora logg filer.</translation>
+        <source>Open the ALTC debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna ALTC felsökningslogg från den nuvarande data katalogen. Detta kan ta några sekunder för stora logg filer.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3341,8 +3341,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Ut:</translation>
     </message>
     <message>
-        <source>Welcome to the Pulse RPC console.</source>
-        <translation>Välkommen till Pulse RPC konsol.</translation>
+        <source>Welcome to the ALTC RPC console.</source>
+        <translation>Välkommen till ALTC RPC konsol.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3448,16 +3448,16 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>En valfri etikett att associera med den nya mottagaradressen.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Pulse network.</source>
-        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, som kommer visas när förfrågan öppnas. Observera: Medelandet kommer inte skickas med betalningen över Pulse nätverket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the ALTC network.</source>
+        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, som kommer visas när förfrågan öppnas. Observera: Medelandet kommer inte skickas med betalningen över ALTC nätverket.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>ERHÅLLA</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Pulse network.</source>
-        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, vilket kommer visas när förfrågan öppnas.&lt;br&gt;Observera: Medelandet kommer inte skickas med betalningen över Pulse nätverket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the ALTC network.</source>
+        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, vilket kommer visas när förfrågan öppnas.&lt;br&gt;Observera: Medelandet kommer inte skickas med betalningen över ALTC nätverket.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3737,8 +3737,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Om 1000 uALTCs är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 uALTCs i avgift,&lt;br /&gt;medans "minst totalt" betalar 1000 uALTCs. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Pulse transactions than the network can process.</source>
-        <translation>Att endast betala minimum avgift är okej så länge som transaktionsvolymen är mindre än rummet i blocken.&lt;br /&gt;Men var medveten om att detta kan sluta som en transaktion som aldrig blir bekräftad när det finns ett större behov av Pulse transaktioner än nätverket kan bearbeta.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for ALTC transactions than the network can process.</source>
+        <translation>Att endast betala minimum avgift är okej så länge som transaktionsvolymen är mindre än rummet i blocken.&lt;br /&gt;Men var medveten om att detta kan sluta som en transaktion som aldrig blir bekräftad när det finns ett större behov av ALTC transaktioner än nätverket kan bearbeta.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3825,8 +3825,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Split block verktyget fungerar inte med flera adresser. Försök igen.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Pulse address</source>
-        <translation>Varning: Ogiltig Pulse adress</translation>
+        <source>Warning: Invalid ALTC address</source>
+        <translation>Varning: Ogiltig ALTC adress</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -3928,8 +3928,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Betala &amp;Till:</translation>
     </message>
     <message>
-        <source>The Pulse address to send the payment to</source>
-        <translation>Pulse adressen att skicka betalningen till</translation>
+        <source>The ALTC address to send the payment to</source>
+        <translation>ALTC adressen att skicka betalningen till</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3968,8 +3968,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Medelande:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Pulse: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Pulse network.</source>
-        <translation>Ett medelande som var bifogat till Pulse: URI som kommer sparas med transaktionen som din referens. Lägg märke till: Detta meddelande kommer inte skickas genom Pulse nätverket.</translation>
+        <source>A message that was attached to the ALTC: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the ALTC network.</source>
+        <translation>Ett medelande som var bifogat till ALTC: URI som kommer sparas med transaktionen som din referens. Lägg märke till: Detta meddelande kommer inte skickas genom ALTC nätverket.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3995,8 +3995,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Pulse Core is shutting down...</source>
-        <translation>Pulse Core stängs ner...</translation>
+        <source>ALTC Core is shutting down...</source>
+        <translation>ALTC Core stängs ner...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4018,8 +4018,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Du kan signera meddelanden med din egna adress för att bevisa att du äger dem. Se upp för att signera något vagt, då phishing-attacker kan försöka lura dig att signera din identitet åt dom. Signera endast fullt detaljerade påståenden du går med på.</translation>
     </message>
     <message>
-        <source>The Pulse address to sign the message with</source>
-        <translation>Pulse adressen för signera meddelandet med</translation>
+        <source>The ALTC address to sign the message with</source>
+        <translation>ALTC adressen för signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4050,16 +4050,16 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Pulse address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna Pulse adress</translation>
+        <source>Sign the message to prove you own this ALTC address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna ALTC adress</translation>
     </message>
     <message>
-        <source>The Pulse address the message was signed with</source>
-        <translation>Pulse adressen meddelandet blev signerat med</translation>
+        <source>The ALTC address the message was signed with</source>
+        <translation>ALTC adressen meddelandet blev signerat med</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Pulse address</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika Pulse adressen.</translation>
+        <source>Verify the message to ensure it was signed with the specified ALTC address</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika ALTC adressen.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4145,8 +4145,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4161,8 +4161,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Dash Core utvecklarna</translation>
     </message>
     <message>
-        <source>The Pulse Core developers</source>
-        <translation>Pulse Core utvecklarna</translation>
+        <source>The ALTC Core developers</source>
+        <translation>ALTC Core utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4826,8 +4826,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Beräknade ackumulator kontrollstation är inte vad som sparats av block index</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Pulse Core is probably already running.</source>
-        <translation>Kan ej låsa in på data katalog %s. Pulse Kärna körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. ALTC Core is probably already running.</source>
+        <translation>Kan ej låsa in på data katalog %s. ALTC Kärna körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -5002,8 +5002,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Denna produkt inkluderar mjukvara utvecklad av OpenSSL Projektet för användning i OpenSSL Toolkit &lt;https://www.openssl.org/&gt; och kryptografisk mjukvara skriven av Eric Young och UPnP mjukvara skriven av Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Pulse Core is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. Pulse Core körs förmodligen redan.</translation>
+        <source>Unable to bind to %s on this computer. ALTC Core is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. ALTC Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -5030,8 +5030,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Varning: -maxtxfee är sätt väldigt högt! Detta är transaktionsavgiften du kommer betala om du skickar en transaktion.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Pulse Core will not work properly.</source>
-        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer Pulse Core inte att fungera korrekt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong ALTC Core will not work properly.</source>
+        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer ALTC Core inte att fungera korrekt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5182,8 +5182,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Pulse Core Developers</source>
-        <translation>Copyright (C) 2015-%i The Pulse Core Developers</translation>
+        <source>Copyright (C) 2015-%i The ALTC Core Developers</source>
+        <translation>Copyright (C) 2015-%i The ALTC Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5270,8 +5270,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Fel vid laddning av wallet.dat: Plånbok korrupterad</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Pulse Core</source>
-        <translation>Fel vid laddning av wallet.dat: Plånbok  kräver nyare Pulse Kärna version</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of ALTC Core</source>
+        <translation>Fel vid laddning av wallet.dat: Plånbok  kräver nyare ALTC Kärna version</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5386,8 +5386,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Pulse Core is shutting down.</source>
-        <translation>Initierings renlighetscheck misslyckades. Pulse Kärna stängs ner.</translation>
+        <source>Initialization sanity check failed. ALTC Core is shutting down.</source>
+        <translation>Initierings renlighetscheck misslyckades. ALTC Kärna stängs ner.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5498,8 +5498,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 </translation>
     </message>
     <message>
-        <source>Disable all Pulse specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Avaktivera all Pulse funktionalitet (Huvudnoder, Zerocoin, SwiftX, Budgeting) (0-1, standard: %u)</translation>
+        <source>Disable all ALTC specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Avaktivera all ALTC funktionalitet (Huvudnoder, Zerocoin, SwiftX, Budgeting) (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -6210,8 +6210,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Plånboken är låst.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Pulse Core to complete</source>
-        <translation>Plånbok behöver skrivas om: starta om Pulse Kärna för att göra klart</translation>
+        <source>Wallet needed to be rewritten: restart ALTC Core to complete</source>
+        <translation>Plånbok behöver skrivas om: starta om ALTC Kärna för att göra klart</translation>
     </message>
     <message>
         <source>Wallet options:</source>

@@ -1,9 +1,9 @@
 // Copyright (c) 2011-2013 The Bitcoin Core developers
-// Copyright (c) 2017 The Pulse developers
+// Copyright (c) 2017 The ALTC developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#define BOOST_TEST_MODULE Pulse Test Suite
+#define BOOST_TEST_MODULE ALTC Test Suite
 
 #include "main.h"
 #include "random.h"

@@ -1,6 +1,6 @@
 // Copyright (c) 2009-2013 The Bitcoin developers
 // Copyright (c) 2017-2018 The Pivx developers
-// Copyright (c) 2017-2018 The Pulse developers
+// Copyright (c) 2017-2018 The ALTC developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 

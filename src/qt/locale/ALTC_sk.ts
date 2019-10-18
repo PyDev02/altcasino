@@ -62,12 +62,12 @@
         <translation>Prijímacia adresa</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto sú vaše Pulse adresy na odosielanie platieb. Pred odoslaním vždy skontrolujte výšku a adresu prijemcu.</translation>
+        <source>These are your ALTC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto sú vaše ALTC adresy na odosielanie platieb. Pred odoslaním vždy skontrolujte výšku a adresu prijemcu.</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto sú vaše Pulse adresy na prijímanie platieb. Pre každú transakciu sa odporúča použiť novú prijímaciu adresu.</translation>
+        <source>These are your ALTC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto sú vaše ALTC adresy na prijímanie platieb. Pre každú transakciu sa odporúča použiť novú prijímaciu adresu.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,8 +172,8 @@
         <translation>Potvrďte šifrovanie peňaženky</translation>
     </message>
     <message>
-        <source>Pulse will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
-        <translation>Pulse sa teraz ukončí, aby dokončil proces šifrovania. Nezabudnite, že šifrovanie peňaženky nemôže úplne ochrániť vaše ALTC pred odcudzením škodlivým softvérom, ktorý infikuje váš počítač.</translation>
+        <source>ALTC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
+        <translation>ALTC sa teraz ukončí, aby dokončil proces šifrovania. Nezabudnite, že šifrovanie peňaženky nemôže úplne ochrániť vaše ALTC pred odcudzením škodlivým softvérom, ktorý infikuje váš počítač.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -569,12 +569,12 @@
         <translation>Panel nástrojov Záložky</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
-        <source>Send coins to a Pulse address</source>
-        <translation>Odoslať mince na adresu Pulse</translation>
+        <source>Send coins to a ALTC address</source>
+        <translation>Odoslať mince na adresu ALTC</translation>
     </message>
     <message>
         <source>Request Payments (generates QR codes and ALTC: URIs)</source>
@@ -589,24 +589,24 @@
         <translation>Prezrieť masternody</translation>
     </message>
     <message>
-        <source>&amp;About Pulse Core</source>
-        <translation>O Pulse Core</translation>
+        <source>&amp;About ALTC Core</source>
+        <translation>O ALTC Core</translation>
     </message>
     <message>
-        <source>Show information about Pulse Core</source>
-        <translation>Zobraziť informácie o Pulse Core</translation>
+        <source>Show information about ALTC Core</source>
+        <translation>Zobraziť informácie o ALTC Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Pulse</source>
-        <translation>Zmeňte možnosti konfigurácie pre Pulse</translation>
+        <source>Modify configuration options for ALTC</source>
+        <translation>Zmeňte možnosti konfigurácie pre ALTC</translation>
     </message>
     <message>
-        <source>Sign messages with your Pulse addresses to prove you own them</source>
-        <translation>Podpíšte správy pomocou adresy Pulse, aby ste preukázali, že ich vlastníte</translation>
+        <source>Sign messages with your ALTC addresses to prove you own them</source>
+        <translation>Podpíšte správy pomocou adresy ALTC, aby ste preukázali, že ich vlastníte</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Pulse addresses</source>
-        <translation>Overte správy, aby sa zabezpečilo, že boli podpísané zadanými Pulse adresami</translation>
+        <source>Verify messages to ensure they were signed with specified ALTC addresses</source>
+        <translation>Overte správy, aby sa zabezpečilo, že boli podpísané zadanými ALTC adresami</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -637,8 +637,8 @@
         <translation>Otvoriť konfiguračný súbor masternodu</translation>
     </message>
     <message>
-        <source>Open a Pulse: URI or payment request</source>
-        <translation>Otvorte Pulse: URI alebo žiadosť o platbu</translation>
+        <source>Open a ALTC: URI or payment request</source>
+        <translation>Otvorte ALTC: URI alebo žiadosť o platbu</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -649,12 +649,12 @@
         <translation>Okno blockchain prehliadača</translation>
     </message>
     <message>
-        <source>Show the Pulse Core help message to get a list with possible Pulse command-line options</source>
-        <translation>Zobraziť pomocnú správu programu Pulse Core a získajte zoznam možností príkazového riadka Pulse</translation>
+        <source>Show the ALTC Core help message to get a list with possible ALTC command-line options</source>
+        <translation>Zobraziť pomocnú správu programu ALTC Core a získajte zoznam možností príkazového riadka ALTC</translation>
     </message>
     <message>
-        <source>Pulse Core client</source>
-        <translation>Pulse Core klient</translation>
+        <source>ALTC Core client</source>
+        <translation>ALTC Core klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -867,15 +867,15 @@ MultiSend: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1114,8 +1114,8 @@ MultiSend: %1</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Pulse address to sign the message with</source>
-        <translation>Adresa Pulse, ktorou chcete správu podpísať</translation>
+        <source>The ALTC address to sign the message with</source>
+        <translation>Adresa ALTC, ktorou chcete správu podpísať</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1138,16 +1138,16 @@ MultiSend: %1</translation>
         <translation>Skopírujte aktuálny podpis do schránky</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Pulse address</source>
-        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto Pulse adresy</translation>
+        <source>Sign the message to prove you own this ALTC address</source>
+        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto ALTC adresy</translation>
     </message>
     <message>
-        <source>The Pulse address the message was signed with</source>
-        <translation>Pulse adresa, ktorou bola správa podpísaná</translation>
+        <source>The ALTC address the message was signed with</source>
+        <translation>ALTC adresa, ktorou bola správa podpísaná</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Pulse address</source>
-        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou Pulse adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified ALTC address</source>
+        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou ALTC adresou</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1185,8 +1185,8 @@ MultiSend: %1</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     </context>
 <context>

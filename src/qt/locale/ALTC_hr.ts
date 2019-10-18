@@ -62,12 +62,12 @@
         <translation>Adrese za primanje</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To su vaše Pulse adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your ALTC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To su vaše ALTC adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To su vaše Pulse adrese za primanje uplata. Preporuča se upotreba nove adrese primanja za svaku transakciju.</translation>
+        <source>These are your ALTC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To su vaše ALTC adrese za primanje uplata. Preporuča se upotreba nove adrese primanja za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,8 +172,8 @@
         <translation>Potvrdite šifriranje novčanika</translation>
     </message>
     <message>
-        <source>Pulse will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
-        <translation>Pulse se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše ALTC od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
+        <source>ALTC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
+        <translation>ALTC se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše ALTC od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -601,12 +601,12 @@
         <translation>Alatna traka kartica</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
-        <source>Send coins to a Pulse address</source>
-        <translation>Pošaljite kovanice na Pulse adresu</translation>
+        <source>Send coins to a ALTC address</source>
+        <translation>Pošaljite kovanice na ALTC adresu</translation>
     </message>
     <message>
         <source>Request Payments (generates QR codes and ALTC: URIs)</source>
@@ -625,24 +625,24 @@
         <translation>Pregledajte masternode</translation>
     </message>
     <message>
-        <source>&amp;About Pulse Core</source>
-        <translation>&amp; O Pulse Coreu</translation>
+        <source>&amp;About ALTC Core</source>
+        <translation>&amp; O ALTC Coreu</translation>
     </message>
     <message>
-        <source>Show information about Pulse Core</source>
-        <translation>Prikaz informacija o Pulse Coreu</translation>
+        <source>Show information about ALTC Core</source>
+        <translation>Prikaz informacija o ALTC Coreu</translation>
     </message>
     <message>
-        <source>Modify configuration options for Pulse</source>
-        <translation>Izmijenite opcije konfiguracije za Pulse</translation>
+        <source>Modify configuration options for ALTC</source>
+        <translation>Izmijenite opcije konfiguracije za ALTC</translation>
     </message>
     <message>
-        <source>Sign messages with your Pulse addresses to prove you own them</source>
-        <translation>Potpišite poruke s vašim Pulse adresama kako biste dokazali da ih posjedujete</translation>
+        <source>Sign messages with your ALTC addresses to prove you own them</source>
+        <translation>Potpišite poruke s vašim ALTC adresama kako biste dokazali da ih posjedujete</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Pulse addresses</source>
-        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim Pulse adresama</translation>
+        <source>Verify messages to ensure they were signed with specified ALTC addresses</source>
+        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim ALTC adresama</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -653,8 +653,8 @@
         <translation>Šifriranje i dešifriranje privatnih ključeva pomoću zaporke</translation>
     </message>
     <message>
-        <source>Pulse Core client</source>
-        <translation>Pulse Core klijent</translation>
+        <source>ALTC Core client</source>
+        <translation>ALTC Core klijent</translation>
     </message>
     <message>
         <source>Error</source>
@@ -751,15 +751,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1111,15 +1111,15 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Pulse Core is shutting down...</source>
-        <translation>Pulse Core se gasi...</translation>
+        <source>ALTC Core is shutting down...</source>
+        <translation>ALTC Core se gasi...</translation>
     </message>
     </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Pulse address to sign the message with</source>
-        <translation>Pulse adresa za potpisivanje poruke s</translation>
+        <source>The ALTC address to sign the message with</source>
+        <translation>ALTC adresa za potpisivanje poruke s</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1142,16 +1142,16 @@
         <translation>Kopirajte trenutačni potpis u međuspremnik sustava</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Pulse address</source>
-        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove Pulse adrese</translation>
+        <source>Sign the message to prove you own this ALTC address</source>
+        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove ALTC adrese</translation>
     </message>
     <message>
-        <source>The Pulse address the message was signed with</source>
-        <translation>Pulse adresa s kojom je potpisana poruka</translation>
+        <source>The ALTC address the message was signed with</source>
+        <translation>ALTC adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Pulse address</source>
-        <translation>Potvrdite poruku kako biste bili sigurni da je potpisan s navedenom Pulse adresom</translation>
+        <source>Verify the message to ensure it was signed with the specified ALTC address</source>
+        <translation>Potvrdite poruku kako biste bili sigurni da je potpisan s navedenom ALTC adresom</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1197,8 +1197,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
         <source>Version %1</source>

@@ -62,11 +62,11 @@
         <translation>Ricevanta adresojn</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ĉi tiuj estas viaj Pulse adreso por sendi pagojn. Ĉiam kontroku la kvanto kaj la ricevanta antaŭ ol sendi monerojn.</translation>
+        <source>These are your ALTC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ĉi tiuj estas viaj ALTC adreso por sendi pagojn. Ĉiam kontroku la kvanto kaj la ricevanta antaŭ ol sendi monerojn.</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your ALTC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Ĉi tiuj estas vian adreson por ricevi pagojn. Ĝi rekomendas uzi novajn ricenvantan adreson por ĉiu nova transakcio.</translation>
     </message>
     <message>
@@ -176,8 +176,8 @@
         <translation>Konfirmi monerĉifrado</translation>
     </message>
     <message>
-        <source>Pulse will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
-        <translation>Pulse fermos nun por fini ĉifran procezon. Memoru ke ĉifri vian monujon ne povas plene protekti viajn ALTCs de esti ŝtelita per malware infektanta vian komputilon.</translation>
+        <source>ALTC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
+        <translation>ALTC fermos nun por fini ĉifran procezon. Memoru ke ĉifri vian monujon ne povas plene protekti viajn ALTCs de esti ŝtelita per malware infektanta vian komputilon.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -254,11 +254,11 @@
         <translation>Adreso:</translation>
     </message>
     <message>
-        <source>Enter a Pulse Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Eniri unu Pulse adreso ke vi volus ĉifri per BIP 38. Eniri unu pasfrazon meze skatolo. Klaku ĉifri por komputi la ĉifrita privata ŝlosilo.</translation>
+        <source>Enter a ALTC Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Eniri unu ALTC adreso ke vi volus ĉifri per BIP 38. Eniri unu pasfrazon meze skatolo. Klaku ĉifri por komputi la ĉifrita privata ŝlosilo.</translation>
     </message>
     <message>
-        <source>The Pulse address to encrypt</source>
+        <source>The ALTC address to encrypt</source>
         <translation>Adreson por ĉifri</translation>
     </message>
     <message>
@@ -290,8 +290,8 @@
         <translation>Kopiu la aktualan subskribo al la sistemo-poŝo</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Pulse address</source>
-        <translation>Ĉifri la privata ŝlosilo por ĉi tiu Pulse adreso</translation>
+        <source>Encrypt the private key for this ALTC address</source>
+        <translation>Ĉifri la privata ŝlosilo por ĉi tiu ALTC adreso</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,12 +645,12 @@
         <translation>Iloj langeto</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse kerno</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC kerno</translation>
     </message>
     <message>
-        <source>Send coins to a Pulse address</source>
-        <translation>Sendu mono al Pulse addreso</translation>
+        <source>Send coins to a ALTC address</source>
+        <translation>Sendu mono al ALTC addreso</translation>
     </message>
     <message>
         <source>Request Payments (generates QR codes and ALTC: URIs)</source>
@@ -669,24 +669,24 @@
         <translation>Foliumi mastro-nodo</translation>
     </message>
     <message>
-        <source>&amp;About Pulse Core</source>
-        <translation>&amp;Pri Pulse Kerno</translation>
+        <source>&amp;About ALTC Core</source>
+        <translation>&amp;Pri ALTC Kerno</translation>
     </message>
     <message>
-        <source>Show information about Pulse Core</source>
-        <translation>Montri informon pri Pulse Kerno</translation>
+        <source>Show information about ALTC Core</source>
+        <translation>Montri informon pri ALTC Kerno</translation>
     </message>
     <message>
-        <source>Modify configuration options for Pulse</source>
-        <translation>Modifi agordajn opciojn por Pulse</translation>
+        <source>Modify configuration options for ALTC</source>
+        <translation>Modifi agordajn opciojn por ALTC</translation>
     </message>
     <message>
-        <source>Sign messages with your Pulse addresses to prove you own them</source>
-        <translation>Subskribu mesaĝo per via Pulse adreso por pruvi vi posedas ĝin</translation>
+        <source>Sign messages with your ALTC addresses to prove you own them</source>
+        <translation>Subskribu mesaĝo per via ALTC adreso por pruvi vi posedas ĝin</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Pulse addresses</source>
-        <translation>Kontrolu mesaĝojn por certigi ke ili estas subskribita kun specifita Pulse adreso</translation>
+        <source>Verify messages to ensure they were signed with specified ALTC addresses</source>
+        <translation>Kontrolu mesaĝojn por certigi ke ili estas subskribita kun specifita ALTC adreso</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Malfermi mastro-nodo agord-dosieron</translation>
     </message>
     <message>
-        <source>Open a Pulse: URI or payment request</source>
-        <translation>Malfermi unu Pulse: URI aŭ pago peto</translation>
+        <source>Open a ALTC: URI or payment request</source>
+        <translation>Malfermi unu ALTC: URI aŭ pago peto</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Bloko esplorilo fenestro</translation>
     </message>
     <message>
-        <source>Show the Pulse Core help message to get a list with possible Pulse command-line options</source>
-        <translation>Montri la Pulse Kore help-mesaĝo por havi liston de havebla Pulse komandlinion opciojn</translation>
+        <source>Show the ALTC Core help message to get a list with possible ALTC command-line options</source>
+        <translation>Montri la ALTC Kore help-mesaĝo por havi liston de havebla ALTC komandlinion opciojn</translation>
     </message>
     <message>
-        <source>Pulse Core client</source>
-        <translation>Pulse Kerno kliento</translation>
+        <source>ALTC Core client</source>
+        <translation>ALTC Kerno kliento</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Pulse network</source>
-        <translation><numerusform>%n aktiva ligo(j) al la Pulse reto</numerusform><numerusform>%n aktiva ligo(j) al la Pulse reto</numerusform></translation>
+        <source>%n active connection(s) to ALTC network</source>
+        <translation><numerusform>%n aktiva ligo(j) al la ALTC reto</numerusform><numerusform>%n aktiva ligo(j) al la ALTC reto</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1177,8 +1177,8 @@ Muktisendi: %1</translation>
         <translation>Redaktu sendantan adreson</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Pulse address.</source>
-        <translation>La enirita "%1" adreso ne estas validan Pulse adreson.</translation>
+        <source>The entered address "%1" is not a valid ALTC address.</source>
+        <translation>La enirita "%1" adreso ne estas validan ALTC adreson.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1223,16 +1223,16 @@ Muktisendi: %1</translation>
         <translation>versio</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse kerno</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC kerno</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bajto)</translation>
     </message>
     <message>
-        <source>About Pulse Core</source>
-        <translation>Pri Pulse Kerno</translation>
+        <source>About ALTC Core</source>
+        <translation>Pri ALTC Kerno</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1274,16 +1274,16 @@ Muktisendi: %1</translation>
         <translation>Bonvenon</translation>
     </message>
     <message>
-        <source>Welcome to Pulse Core.</source>
-        <translation>Bonvenon al la Pulse Kerno.</translation>
+        <source>Welcome to ALTC Core.</source>
+        <translation>Bonvenon al la ALTC Kerno.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Pulse Core will store its data.</source>
-        <translation>Ĉar estas la unuan fojon ke la programo estas lanĉita, vi povas elekti kie Pulse kernk storigis sian datumojn. </translation>
+        <source>As this is the first time the program is launched, you can choose where ALTC Core will store its data.</source>
+        <translation>Ĉar estas la unuan fojon ke la programo estas lanĉita, vi povas elekti kie ALTC kernk storigis sian datumojn. </translation>
     </message>
     <message>
-        <source>Pulse Core will download and store a copy of the Pulse block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Pulse kerno elŝutos kaj konservi kopion de la Pulse blokĉeno. Almenaŭ %1GB datumoj stokitos en ĉi tiun dosierujo, kaj ĝi kresko kun la tempo. Monujo stokitos en ĉi tiun dosierujo.</translation>
+        <source>ALTC Core will download and store a copy of the ALTC block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>ALTC kerno elŝutos kaj konservi kopion de la ALTC blokĉeno. Almenaŭ %1GB datumoj stokitos en ĉi tiun dosierujo, kaj ĝi kresko kun la tempo. Monujo stokitos en ĉi tiun dosierujo.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1294,8 +1294,8 @@ Muktisendi: %1</translation>
         <translation>Uzi kutimon datumojn dosierujo:</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse kerno</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC kerno</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1682,8 +1682,8 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>&amp;Monujo</translation>
     </message>
     <message>
-        <source>Automatically open the Pulse client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aŭtomate malfermi Pulse klienton havenon en la enkursigilo. Tio nur laboras kiam via enkursigilo subtenas UPnP kaj estas ebligita.</translation>
+        <source>Automatically open the ALTC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aŭtomate malfermi ALTC klienton havenon en la enkursigilo. Tio nur laboras kiam via enkursigilo subtenas UPnP kaj estas ebligita.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1694,8 +1694,8 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>Sperta</translation>
     </message>
     <message>
-        <source>&amp;Start Pulse on system login</source>
-        <translation>&amp;Komencu Pulse en sistem-ensaluto</translation>
+        <source>&amp;Start ALTC on system login</source>
+        <translation>&amp;Komencu ALTC en sistem-ensaluto</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
@@ -1706,8 +1706,8 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>&amp;Reto</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Pulse.</source>
-        <translation>La uzanta interfaco lingvo povas esti agordi ĉi tie. Tio agordo efektivigos post rekomenci Pulse.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting ALTC.</source>
+        <translation>La uzanta interfaco lingvo povas esti agordi ĉi tie. Tio agordo efektivigos post rekomenci ALTC.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1716,8 +1716,8 @@ https://www.transifex.com/ALTC-project/ALTC-project-translations</source>
 https://www.transifex.com/ALTC-project/ALTC-project-translations</translation>
     </message>
     <message>
-        <source>Connect to the Pulse network through a SOCKS5 proxy.</source>
-        <translation>Konekti al la Pulse reto per SOCKS5 prokurilo.</translation>
+        <source>Connect to the ALTC network through a SOCKS5 proxy.</source>
+        <translation>Konekti al la ALTC reto per SOCKS5 prokurilo.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1795,8 +1795,8 @@ https://www.transifex.com/ALTC-project/ALTC-project-translations</translation>
         <translation>Nematura:</translation>
     </message>
     <message>
-        <source>Your current Pulse balance, unconfirmed and immature transactions included</source>
-        <translation>Via aktuala Pulse totalo, nekonformita kaj nematurita transakcioj inkluzivita</translation>
+        <source>Your current ALTC balance, unconfirmed and immature transactions included</source>
+        <translation>Via aktuala ALTC totalo, nekonformita kaj nematurita transakcioj inkluzivita</translation>
     </message>
     <message>
         <source>zALTC Balance</source>
@@ -1809,8 +1809,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mintita</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pulse network after a connection is established, but this process has not completed yet.</source>
-        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la Pulse reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ALTC network after a connection is established, but this process has not completed yet.</source>
+        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la ALTC reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -1862,8 +1862,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pulse network after a connection is established, but this process has not completed yet.</source>
-        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la Pulse reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ALTC network after a connection is established, but this process has not completed yet.</source>
+        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la ALTC reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
     </message>
     <message>
         <source>0</source>
@@ -1918,8 +1918,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Pagu &amp;Al:</translation>
     </message>
     <message>
-        <source>The Pulse address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Pulse adreso por alsendi la pago. Kreas lokala pago al vi mem kiam malplenija.</translation>
+        <source>The ALTC address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>ALTC adreso por alsendi la pago. Kreas lokala pago al vi mem kiam malplenija.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2004,8 +2004,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Mesaĝo: eniri kvanto &gt; 0.</translation>
     </message>
     <message>
-        <source>Invalid Pulse Address</source>
-        <translation>Nevalida Pulse adreso</translation>
+        <source>Invalid ALTC Address</source>
+        <translation>Nevalida ALTC adreso</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
@@ -2101,8 +2101,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Rekonstrui indekson</translation>
     </message>
     <message>
-        <source>Welcome to the Pulse RPC console.</source>
-        <translation>Bonvenon al la Pulse RPC konzolo.</translation>
+        <source>Welcome to the ALTC RPC console.</source>
+        <translation>Bonvenon al la ALTC RPC konzolo.</translation>
     </message>
     <message>
         <source>1 &amp;hour</source>
@@ -2345,8 +2345,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Kopi ŝanĝo</translation>
     </message>
     <message>
-        <source>Warning: Invalid Pulse address</source>
-        <translation>Averto: nevalida Pulse adreson</translation>
+        <source>Warning: Invalid ALTC address</source>
+        <translation>Averto: nevalida ALTC adreson</translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
@@ -2372,7 +2372,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Pagu &amp;Al:</translation>
     </message>
     <message>
-        <source>The Pulse address to send the payment to</source>
+        <source>The ALTC address to send the payment to</source>
         <translation>ALTCC adreso por sendi la pago al</translation>
     </message>
     <message>
@@ -2407,8 +2407,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Pulse Core is shutting down...</source>
-        <translation>Pulse kerno fermanta...</translation>
+        <source>ALTC Core is shutting down...</source>
+        <translation>ALTC kerno fermanta...</translation>
     </message>
     </context>
 <context>
@@ -2461,8 +2461,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse kerno</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC kerno</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
@@ -2473,8 +2473,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>La Dash kerno programistoj</translation>
     </message>
     <message>
-        <source>The Pulse Core developers</source>
-        <translation>La Pulse kerno programistoj</translation>
+        <source>The ALTC Core developers</source>
+        <translation>La ALTC kerno programistoj</translation>
     </message>
     </context>
 <context>

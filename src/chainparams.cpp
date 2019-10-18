@@ -1,7 +1,7 @@
 // Copyright (c) 2010 Satoshi Nakamoto
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
-// Copyright (c) 2015-2018 The Pulse developers
+// Copyright (c) 2015-2018 The ALTC developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -146,15 +146,15 @@ public:
         pchMessageStart[3] = 0xcd;
         vAlertPubKey = ParseHex("04719cab10be83ac0046e6dc874a180c541c10ddcd7e2b15b4b3828cf7eca71cb15e3b16cb9c2ba17647f4b928e8c0e70a3a1dc9393fb129726c40ae0d013c94a1");
         nDefaultPort = 13785;
-        bnProofOfWorkLimit = ~uint256(0) >> 9; // Pulse starting difficulty is 1 / 2^12
+        bnProofOfWorkLimit = ~uint256(0) >> 9; // ALTC starting difficulty is 1 / 2^12
         nSubsidyHalvingInterval = 2100000;
         nMaxReorganizationDepth = 100;
         nEnforceBlockUpgradeMajority = 8100; // 75%
         nRejectBlockOutdatedMajority = 10260; // 95%
         nToCheckBlockUpgradeMajority = 10800; // Approximate expected amount of blocks in 7 days (1440*7.5)
         nMinerThreads = 0;
-        nTargetTimespan = 45 * 60; // Pulse: 1 day
-        nTargetSpacing = 1 * 60;  // Pulse: 1 minute
+        nTargetTimespan = 45 * 60; // ALTC: 1 day
+        nTargetSpacing = 1 * 60;  // ALTC: 1 minute
         nMaturity = 10;
         nMasternodeCountDrift = 20;
         nMaxMoneyOut = 21297995 * COIN;
@@ -277,8 +277,8 @@ public:
         nRejectBlockOutdatedMajority = 5472; // 95%
         nToCheckBlockUpgradeMajority = 5760; // 4 days
         nMinerThreads = 0;
-        nTargetTimespan = 1 * 60; // Pulse: 1 day
-        nTargetSpacing = 1 * 60;  // Pulse: 1 minute
+        nTargetTimespan = 1 * 60; // ALTC: 1 day
+        nTargetSpacing = 1 * 60;  // ALTC: 1 minute
         nLastPOWBlock = 200;
         nMaturity = 15;
         nMasternodeCountDrift = 4;
@@ -386,8 +386,8 @@ public:
         nRejectBlockOutdatedMajority = 950;
         nToCheckBlockUpgradeMajority = 1000;
         nMinerThreads = 1;
-        nTargetTimespan = 24 * 60 * 60; // Pulse: 1 day
-        nTargetSpacing = 1 * 60;        // Pulse: 1 minutes
+        nTargetTimespan = 24 * 60 * 60; // ALTC: 1 day
+        nTargetSpacing = 1 * 60;        // ALTC: 1 minutes
         bnProofOfWorkLimit = ~uint256(0) >> 1;
         genesis.nTime = 1454124733;
         genesis.nBits = 0x207fffff;

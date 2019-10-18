@@ -1,13 +1,13 @@
-Pulse Core
+ALTC Core
 =====================
 
 Setup
 ---------------------
-[Pulse Core](http://ALTC.me) is the original Pulse client and it builds the backbone of the network. However, it downloads and stores the entire history of Pulse transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
+[ALTC Core](http://ALTC.me) is the original ALTC client and it builds the backbone of the network. However, it downloads and stores the entire history of ALTC transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
 
 Running
 ---------------------
-The following are some helpful notes on how to run Pulse on your native platform.
+The following are some helpful notes on how to run ALTC on your native platform.
 
 ### Unix
 
@@ -22,17 +22,17 @@ Unpack the files into a directory, and then run ALTC-qt.exe.
 
 ### OSX
 
-Drag Pulse-Qt to your applications folder, and then run Pulse-Qt.
+Drag ALTC-Qt to your applications folder, and then run ALTC-Qt.
 
 ### Need Help?
 
-* See the documentation at the [Pulse Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
+* See the documentation at the [ALTC Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
 for help and more information.
 * Join our Discord server [Discord Server](https://discord.ALTC.org)
 
 Building
 ---------------------
-The following are developer notes on how to build Pulse on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build ALTC on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [OSX Build Notes](build-osx.md)
 - [Unix Build Notes](build-unix.md)
@@ -40,7 +40,7 @@ The following are developer notes on how to build Pulse on your native platform.
 
 Development
 ---------------------
-The Pulse repo's [root README](https://github.com/Pulse-Developer/Pulse-Core/blob/master/README.md) contains relevant information on the development process and automated testing.
+The ALTC repo's [root README](https://github.com/ALTC-Developer/ALTC-Core/blob/master/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)

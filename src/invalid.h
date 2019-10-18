@@ -1,4 +1,4 @@
-// Copyright (c) 2018 The Pulse developers
+// Copyright (c) 2018 The ALTC developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 

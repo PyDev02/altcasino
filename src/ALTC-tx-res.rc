@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Pulse"
-            VALUE "FileDescription",    "ALTC-tx (CLI Pulse transaction editor utility)"
+            VALUE "CompanyName",        "ALTC"
+            VALUE "FileDescription",    "ALTC-tx (CLI ALTC transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "ALTC-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR

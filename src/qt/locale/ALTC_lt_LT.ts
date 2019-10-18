@@ -62,12 +62,12 @@
         <translation>Gavimo adresai</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tai jūsų Pulse adresai mokėjimų išsiuntimams. Visada patikrinkite sumą ir gavėjo adresą prieš siųsdami monetas.</translation>
+        <source>These are your ALTC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tai jūsų ALTC adresai mokėjimų išsiuntimams. Visada patikrinkite sumą ir gavėjo adresą prieš siųsdami monetas.</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tai jūsų Pulse adresai mokėjimų gavimams. Rekomenduojama naudoti naują adresą kiekvienam pavedimui.</translation>
+        <source>These are your ALTC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tai jūsų ALTC adresai mokėjimų gavimams. Rekomenduojama naudoti naują adresą kiekvienam pavedimui.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Patvirtinkite piniginės užšifravimą.</translation>
     </message>
     <message>
-        <source>Pulse will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
-        <translation>Dabar Pulse išsijungs, kad būtų užbaigtas šifravimo procesas. Atminkite, kad jūsų piniginės užšifravimas negali visiškai apsaugoti jūsų ALTC nuo kenkėjiškų programų, užkrėsto jūsų kompiuterio.</translation>
+        <source>ALTC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
+        <translation>Dabar ALTC išsijungs, kad būtų užbaigtas šifravimo procesas. Atminkite, kad jūsų piniginės užšifravimas negali visiškai apsaugoti jūsų ALTC nuo kenkėjiškų programų, užkrėsto jūsų kompiuterio.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -254,12 +254,12 @@
         <translation>Adresas:</translation>
     </message>
     <message>
-        <source>Enter a Pulse Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Įveskite Pulse adresą, kurį norėtumėte užšifruoti naudojant BIP 38. Vidiniame laukelyje įrašykite slaptą frazę. Paspauskite užšifruoti, jei norite gauti užšifruotą privatųjį raktą.</translation>
+        <source>Enter a ALTC Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Įveskite ALTC adresą, kurį norėtumėte užšifruoti naudojant BIP 38. Vidiniame laukelyje įrašykite slaptą frazę. Paspauskite užšifruoti, jei norite gauti užšifruotą privatųjį raktą.</translation>
     </message>
     <message>
-        <source>The Pulse address to encrypt</source>
-        <translation>Pulse adresas, kurį norite užšifruoti</translation>
+        <source>The ALTC address to encrypt</source>
+        <translation>ALTC adresas, kurį norite užšifruoti</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopijuoti dabartinį parašą</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Pulse address</source>
-        <translation>Užšifruoti šio Pulse adreso privatų raktą</translation>
+        <source>Encrypt the private key for this ALTC address</source>
+        <translation>Užšifruoti šio ALTC adreso privatų raktą</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,12 +645,12 @@
         <translation>Skirtukų įrankių juosta</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
-        <source>Send coins to a Pulse address</source>
-        <translation>Siųsti monetas į Pulse adresą</translation>
+        <source>Send coins to a ALTC address</source>
+        <translation>Siųsti monetas į ALTC adresą</translation>
     </message>
     <message>
         <source>Request Payments (generates QR codes and ALTC: URIs)</source>
@@ -669,24 +669,24 @@
         <translation>Naršyti masternod'us</translation>
     </message>
     <message>
-        <source>&amp;About Pulse Core</source>
-        <translation>&amp;Apie Pulse Core</translation>
+        <source>&amp;About ALTC Core</source>
+        <translation>&amp;Apie ALTC Core</translation>
     </message>
     <message>
-        <source>Show information about Pulse Core</source>
-        <translation>Rodyti informaciją apie Pulse Core</translation>
+        <source>Show information about ALTC Core</source>
+        <translation>Rodyti informaciją apie ALTC Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Pulse</source>
-        <translation>Keisti Pulse konfigūravimo parinktis</translation>
+        <source>Modify configuration options for ALTC</source>
+        <translation>Keisti ALTC konfigūravimo parinktis</translation>
     </message>
     <message>
-        <source>Sign messages with your Pulse addresses to prove you own them</source>
-        <translation>Pasirašykite pranešimus naudodami savo Pulse adresus, kad įrodytumėte, kad juos turite</translation>
+        <source>Sign messages with your ALTC addresses to prove you own them</source>
+        <translation>Pasirašykite pranešimus naudodami savo ALTC adresus, kad įrodytumėte, kad juos turite</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Pulse addresses</source>
-        <translation>Patvirtinkite pranešimus, kad jie būtų pasirašyti su nurodytais Pulse adresais</translation>
+        <source>Verify messages to ensure they were signed with specified ALTC addresses</source>
+        <translation>Patvirtinkite pranešimus, kad jie būtų pasirašyti su nurodytais ALTC adresais</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Atidaryti Masternod'o konfigūracijos failą</translation>
     </message>
     <message>
-        <source>Open a Pulse: URI or payment request</source>
-        <translation>Atidaryti Pulse: URI arba mokėjimo prašymą</translation>
+        <source>Open a ALTC: URI or payment request</source>
+        <translation>Atidaryti ALTC: URI arba mokėjimo prašymą</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Blokų naršyklės langas</translation>
     </message>
     <message>
-        <source>Show the Pulse Core help message to get a list with possible Pulse command-line options</source>
-        <translation>Rodyti Pulse Core žinyną, kad gautumėte sąrašą su galimomis Pulse komandinės eilutės parinktimis</translation>
+        <source>Show the ALTC Core help message to get a list with possible ALTC command-line options</source>
+        <translation>Rodyti ALTC Core žinyną, kad gautumėte sąrašą su galimomis ALTC komandinės eilutės parinktimis</translation>
     </message>
     <message>
-        <source>Pulse Core client</source>
-        <translation>Pulse Core piniginė</translation>
+        <source>ALTC Core client</source>
+        <translation>ALTC Core piniginė</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Pulse network</source>
-        <translation><numerusform>%n aktyvių prisijungimų Pulse tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų Pulse tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų Pulse tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų Pulse tinkle ()</numerusform></translation>
+        <source>%n active connection(s) to ALTC network</source>
+        <translation><numerusform>%n aktyvių prisijungimų ALTC tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų ALTC tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų ALTC tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų ALTC tinkle ()</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1177,8 +1177,8 @@ MultiSend: %1</translation>
         <translation>Keisti siuntimo adresą</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Pulse address.</source>
-        <translation>Įvestas adresas "%1" nėra galiojantis Pulse adresas.</translation>
+        <source>The entered address "%1" is not a valid ALTC address.</source>
+        <translation>Įvestas adresas "%1" nėra galiojantis ALTC adresas.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1223,16 +1223,16 @@ MultiSend: %1</translation>
         <translation>versija</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bitai)</translation>
     </message>
     <message>
-        <source>About Pulse Core</source>
-        <translation>Apie Pulse Core</translation>
+        <source>About ALTC Core</source>
+        <translation>Apie ALTC Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1278,16 +1278,16 @@ MultiSend: %1</translation>
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to Pulse Core.</source>
-        <translation>Sveiki atvykę į Pulse Core</translation>
+        <source>Welcome to ALTC Core.</source>
+        <translation>Sveiki atvykę į ALTC Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Pulse Core will store its data.</source>
-        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur Pulse Core saugos savo duomenis.</translation>
+        <source>As this is the first time the program is launched, you can choose where ALTC Core will store its data.</source>
+        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur ALTC Core saugos savo duomenis.</translation>
     </message>
     <message>
-        <source>Pulse Core will download and store a copy of the Pulse block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Pulse Core atsisiųs ir saugos Pulse blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
+        <source>ALTC Core will download and store a copy of the ALTC block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>ALTC Core atsisiųs ir saugos ALTC blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1298,8 +1298,8 @@ MultiSend: %1</translation>
         <translation>Naudoti pasirinktą duomenų katalogą:</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1440,12 +1440,12 @@ MultiSend: %1</translation>
         <translation>Įveskite adresą kuriam norite siųsti</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Pulse addresses after it matures.
-To Add: enter percentage to give and Pulse address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other ALTC addresses after it matures.
+To Add: enter percentage to give and ALTC address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend leidžia automatiškai išsiųsti iki 100% jūsų stake'inimo ar masternod'ų atlygio į kitus Pulse adresus.
-Norėdami pridėti: įveskite pateiktą procentą ir Pulse adresą, kurį norite pridėti prie MultiSend sąrašo.
+        <translation>MultiSend leidžia automatiškai išsiųsti iki 100% jūsų stake'inimo ar masternod'ų atlygio į kitus ALTC adresus.
+Norėdami pridėti: įveskite pateiktą procentą ir ALTC adresą, kurį norite pridėti prie MultiSend sąrašo.
 Norėdami ištrinti: įveskite adresą, kurį norite ištrinti, ir paspauskite ištrinti
 MultiSend nebus aktyvuotas, nebent paspausite "Įjungti"</translation>
     </message>
@@ -1782,16 +1782,16 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>Obfuscation Konfigūracija</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Pulse's configuration screen.</source>
-        <translation>Obfuscation buvo sėkmingai nustatytas į paprastą (%1 ir 2 raundai). Bet kada galite tai pakeisti, atidarę Pulse konfigūracijos ekraną.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening ALTC's configuration screen.</source>
+        <translation>Obfuscation buvo sėkmingai nustatytas į paprastą (%1 ir 2 raundai). Bet kada galite tai pakeisti, atidarę ALTC konfigūracijos ekraną.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Pulse's configuration screen.</source>
-        <translation>Obfuscation buvo sėkmingai nustatytas į aukštą (%1 ir 8 raundai). Bet kada galite tai pakeisti, atidarę Pulse konfigūracijos ekraną.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening ALTC's configuration screen.</source>
+        <translation>Obfuscation buvo sėkmingai nustatytas į aukštą (%1 ir 8 raundai). Bet kada galite tai pakeisti, atidarę ALTC konfigūracijos ekraną.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Pulse's configuration screen.</source>
-        <translation>Obfuscation buvo sėkmingai nustatytas į maksimumą (%1 ir 16 raundai). Bet kada galite tai pakeisti, atidarę Pulse konfigūracijos ekraną.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening ALTC's configuration screen.</source>
+        <translation>Obfuscation buvo sėkmingai nustatytas į maksimumą (%1 ir 16 raundai). Bet kada galite tai pakeisti, atidarę ALTC konfigūracijos ekraną.</translation>
     </message>
 </context>
 <context>
@@ -1844,12 +1844,12 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>Ekspertas</translation>
     </message>
     <message>
-        <source>Automatically start Pulse after logging in to the system.</source>
-        <translation>Automatiškai paleisti Pulse prisijungus prie sistemos.</translation>
+        <source>Automatically start ALTC after logging in to the system.</source>
+        <translation>Automatiškai paleisti ALTC prisijungus prie sistemos.</translation>
     </message>
     <message>
-        <source>&amp;Start Pulse on system login</source>
-        <translation>&amp;Paleisti Pulse sistemai įsijungiant</translation>
+        <source>&amp;Start ALTC on system login</source>
+        <translation>&amp;Paleisti ALTC sistemai įsijungiant</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1876,8 +1876,8 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>&amp;Tinklas</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Pulse.</source>
-        <translation>Čia galite nustatyti vartotojo sąsajos kalbą. Šis nustatymas įsigalios iš naujo paleidus "Pulse".</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting ALTC.</source>
+        <translation>Čia galite nustatyti vartotojo sąsajos kalbą. Šis nustatymas įsigalios iš naujo paleidus "ALTC".</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1910,8 +1910,8 @@ https://www.transifex.com/ALTC-project/ALTC-project-translations</translation>
         <translation>Pageidautinas zALTC Automatinio Nukaldinimo Nominalas</translation>
     </message>
     <message>
-        <source>Connect to the Pulse network through a SOCKS5 proxy.</source>
-        <translation>Jungtis prie Pulse tinklo naudojant SOCKS5 tarpinį serverį.</translation>
+        <source>Connect to the ALTC network through a SOCKS5 proxy.</source>
+        <translation>Jungtis prie ALTC tinklo naudojant SOCKS5 tarpinį serverį.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2053,8 +2053,8 @@ https://www.transifex.com/ALTC-project/ALTC-project-translations</translation>
         <translation>Dabartinis bendras užrakintas balansas tik žiūrėjimo adresuose</translation>
     </message>
     <message>
-        <source>Your current Pulse balance, unconfirmed and immature transactions included</source>
-        <translation>Jūsų dabartinis Pulse balansas, įskaitant nepatvirtintus ir nesubrendusius sandorius</translation>
+        <source>Your current ALTC balance, unconfirmed and immature transactions included</source>
+        <translation>Jūsų dabartinis ALTC balansas, įskaitant nepatvirtintus ir nesubrendusius sandorius</translation>
     </message>
     <message>
         <source>zALTC Balance</source>
@@ -2073,8 +2073,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo po to, kai buvo konvertuotas.</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pulse network after a connection is established, but this process has not completed yet.</source>
-        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su Pulse tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ALTC network after a connection is established, but this process has not completed yet.</source>
+        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su ALTC tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2210,8 +2210,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Zerocoin Veiksmai:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pulse network after a connection is established, but this process has not completed yet.</source>
-        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su Pulse tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ALTC network after a connection is established, but this process has not completed yet.</source>
+        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su ALTC tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2604,8 +2604,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Klaida: jūsų piniginė užrakinta. Pirmiausia įveskite piniginės slaptažodį.</translation>
     </message>
     <message>
-        <source>Invalid Pulse Address</source>
-        <translation>Netinkamas Pulse Adresas</translation>
+        <source>Invalid ALTC Address</source>
+        <translation>Netinkamas ALTC Adresas</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2651,8 +2651,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Enter a Pulse address (e.g. %1)</source>
-        <translation>Įveskite Pulse adresą (pvz. %1)</translation>
+        <source>Enter a ALTC address (e.g. %1)</source>
+        <translation>Įveskite ALTC adresą (pvz. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2829,8 +2829,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Iš:</translation>
     </message>
     <message>
-        <source>Welcome to the Pulse RPC console.</source>
-        <translation>Sveiki atvykę į Pulse RPC konsolę.</translation>
+        <source>Welcome to the ALTC RPC console.</source>
+        <translation>Sveiki atvykę į ALTC RPC konsolę.</translation>
     </message>
     <message>
         <source>never</source>
@@ -3158,8 +3158,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Pulse address to sign the message with</source>
-        <translation>Pulse adresas, kuriuo pasirašyti žinute</translation>
+        <source>The ALTC address to sign the message with</source>
+        <translation>ALTC adresas, kuriuo pasirašyti žinute</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3182,16 +3182,16 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Kopijuoti dabartinį parašą</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Pulse address</source>
-        <translation>Pažymėkite žinutę, kad įrodytumėte, jog jūs šio Pulse adreso savininkas</translation>
+        <source>Sign the message to prove you own this ALTC address</source>
+        <translation>Pažymėkite žinutę, kad įrodytumėte, jog jūs šio ALTC adreso savininkas</translation>
     </message>
     <message>
-        <source>The Pulse address the message was signed with</source>
-        <translation>Pulse adresas, kurio buvo pasirašyta žinutė</translation>
+        <source>The ALTC address the message was signed with</source>
+        <translation>ALTC adresas, kurio buvo pasirašyta žinutė</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Pulse address</source>
-        <translation>Patikrinkite pranešimą, kad jis būtų pasirašytas su nurodytu Pulse adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified ALTC address</source>
+        <translation>Patikrinkite pranešimą, kad jis būtų pasirašytas su nurodytu ALTC adresu</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -3229,8 +3229,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     </context>
 <context>
@@ -3494,8 +3494,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Klaida kraunant wallet.dat: Piniginė yra sugadinta</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Pulse Core</source>
-        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės Pulse Core versijos</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of ALTC Core</source>
+        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės ALTC Core versijos</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -3726,8 +3726,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Piniginė užrakinta.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Pulse Core to complete</source>
-        <translation>Piniginę reikia perrašyti: paleiskite Pulse Core iš naujo</translation>
+        <source>Wallet needed to be rewritten: restart ALTC Core to complete</source>
+        <translation>Piniginę reikia perrašyti: paleiskite ALTC Core iš naujo</translation>
     </message>
     <message>
         <source>Wallet options:</source>

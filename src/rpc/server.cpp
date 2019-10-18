@@ -1,7 +1,7 @@
 // Copyright (c) 2010 Satoshi Nakamoto
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
-// Copyright (c) 2015-2018 The Pulse developers
+// Copyright (c) 2015-2018 The ALTC developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -266,11 +266,11 @@ UniValue stop(const UniValue& params, bool fHelp)
     if (fHelp || params.size() > 1)
         throw runtime_error(
             "stop\n"
-            "\nStop Pulse server.");
+            "\nStop ALTC server.");
     // Event loop will exit after current HTTP requests have been handled, so
     // this reply will get back to the client.
     StartShutdown();
-    return "Pulse server stopping";
+    return "ALTC server stopping";
 }
 
 
@@ -354,7 +354,7 @@ static const CRPCCommand vRPCCommands[] =
         {"hidden", "reconsiderblock", &reconsiderblock, true, true, false},
         {"hidden", "setmocktime", &setmocktime, true, false, false},
 
-        /* Pulse features */
+        /* ALTC features */
         {"ALTC", "masternode", &masternode, true, true, false},
         {"ALTC", "listmasternodes", &listmasternodes, true, true, false},
         {"ALTC", "getmasternodecount", &getmasternodecount, true, true, false},

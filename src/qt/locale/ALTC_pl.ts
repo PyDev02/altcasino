@@ -509,12 +509,12 @@
         <translation>&amp;Pomoc</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>&amp;Rdzeń Pulse</translation>
+        <source>ALTC Core</source>
+        <translation>&amp;Rdzeń ALTC</translation>
     </message>
     <message>
-        <source>Send coins to a Pulse address</source>
-        <translation>Wyślij monety do adresu Pulse</translation>
+        <source>Send coins to a ALTC address</source>
+        <translation>Wyślij monety do adresu ALTC</translation>
     </message>
     <message>
         <source>Request Payments (generates QR codes and ALTC: URIs)</source>
@@ -529,24 +529,24 @@
         <translation>Przeglądaj masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Pulse Core</source>
+        <source>&amp;About ALTC Core</source>
         <translation>&amp;O rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Show information about Pulse Core</source>
+        <source>Show information about ALTC Core</source>
         <translation>Pokaż informacje o rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Modify configuration options for Pulse</source>
-        <translation>Modyfikuj opcje konfiguracji Pulse</translation>
+        <source>Modify configuration options for ALTC</source>
+        <translation>Modyfikuj opcje konfiguracji ALTC</translation>
     </message>
     <message>
-        <source>Sign messages with your Pulse addresses to prove you own them</source>
-        <translation>Zatwierdź wiadomość z twoimi adresami Pulse, by udowodnić, że jesteś w ich posiadaniu</translation>
+        <source>Sign messages with your ALTC addresses to prove you own them</source>
+        <translation>Zatwierdź wiadomość z twoimi adresami ALTC, by udowodnić, że jesteś w ich posiadaniu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Pulse addresses</source>
-        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu Pulse</translation>
+        <source>Verify messages to ensure they were signed with specified ALTC addresses</source>
+        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu ALTC</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -573,8 +573,8 @@
         <translation>Otwórz &amp;Plik konfiguracji Masternode</translation>
     </message>
     <message>
-        <source>Open a Pulse: URI or payment request</source>
-        <translation>Otwórz Pulse: URI i żądanie zapłaty</translation>
+        <source>Open a ALTC: URI or payment request</source>
+        <translation>Otwórz ALTC: URI i żądanie zapłaty</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -585,12 +585,12 @@
         <translation>Okno eksplorera bloków</translation>
     </message>
     <message>
-        <source>Show the Pulse Core help message to get a list with possible Pulse command-line options</source>
-        <translation>Pokaż wiadomość pomocy rdzenia Pulse, aby dostać listę możliwych opcji Pulse command-line</translation>
+        <source>Show the ALTC Core help message to get a list with possible ALTC command-line options</source>
+        <translation>Pokaż wiadomość pomocy rdzenia ALTC, aby dostać listę możliwych opcji ALTC command-line</translation>
     </message>
     <message>
-        <source>Pulse Core client</source>
-        <translation>Rdzeń Pulse klient</translation>
+        <source>ALTC Core client</source>
+        <translation>Rdzeń ALTC klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -899,8 +899,8 @@ MultiWysyłlka: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>&amp;Rdzeń Pulse</translation>
+        <source>ALTC Core</source>
+        <translation>&amp;Rdzeń ALTC</translation>
     </message>
     </context>
 <context>
@@ -914,8 +914,8 @@ MultiWysyłlka: %1</translation>
         <translation>Użyj niestandardowej ścieżki danych</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>&amp;Rdzeń Pulse</translation>
+        <source>ALTC Core</source>
+        <translation>&amp;Rdzeń ALTC</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1190,12 +1190,12 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Zezwól na przychodzące połączenia</translation>
     </message>
     <message>
-        <source>Automatically start Pulse after logging in to the system.</source>
-        <translation>Automatycznie uruchom Pulse po zalogowaniu do systemu</translation>
+        <source>Automatically start ALTC after logging in to the system.</source>
+        <translation>Automatycznie uruchom ALTC po zalogowaniu do systemu</translation>
     </message>
     <message>
-        <source>&amp;Start Pulse on system login</source>
-        <translation>&amp;Uruchom Pulse podczas logowania do systemu</translation>
+        <source>&amp;Start ALTC on system login</source>
+        <translation>&amp;Uruchom ALTC podczas logowania do systemu</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1214,8 +1214,8 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>&amp;Sieć</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Pulse.</source>
-        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie Pulse</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting ALTC.</source>
+        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie ALTC</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1224,8 +1224,8 @@ https://www.transifex.com/ALTC-project/ALTC-project-translations</source>
 https://www.transifex.com/ALTC-project/ALTC-project-translations </translation>
     </message>
     <message>
-        <source>Connect to the Pulse network through a SOCKS5 proxy.</source>
-        <translation>Połącz z siecią Pulse poprzez SOCKS5 proxy.</translation>
+        <source>Connect to the ALTC network through a SOCKS5 proxy.</source>
+        <translation>Połącz z siecią ALTC poprzez SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1463,8 +1463,8 @@ https://www.transifex.com/ALTC-project/ALTC-project-translations </translation>
         <translation>Liczba</translation>
     </message>
     <message>
-        <source>Enter a Pulse address (e.g. %1)</source>
-        <translation>Wprowadź adres Pulse (np. %1)</translation>
+        <source>Enter a ALTC address (e.g. %1)</source>
+        <translation>Wprowadź adres ALTC (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1894,8 +1894,8 @@ https://www.transifex.com/ALTC-project/ALTC-project-translations </translation>
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Pulse address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Pulse jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this ALTC address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres ALTC jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -1929,8 +1929,8 @@ https://www.transifex.com/ALTC-project/ALTC-project-translations </translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>&amp;Rdzeń Pulse</translation>
+        <source>ALTC Core</source>
+        <translation>&amp;Rdzeń ALTC</translation>
     </message>
     </context>
 <context>

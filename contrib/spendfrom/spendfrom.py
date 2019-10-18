@@ -7,7 +7,7 @@
 #  spendfrom.py  # Lists available funds
 #  spendfrom.py --from=ADDRESS --to=ADDRESS --amount=11.00
 #
-# Assumes it will talk to a ALTCd or Pulse-Qt running
+# Assumes it will talk to a ALTCd or ALTC-Qt running
 # on localhost.
 #
 # Depends on jsonrpc
@@ -35,9 +35,9 @@ def check_json_precision():
 def determine_db_dir():
     """Return the default location of the ALTC data directory"""
     if platform.system() == "Darwin":
-        return os.path.expanduser("~/Library/Application Support/Pulse/")
+        return os.path.expanduser("~/Library/Application Support/ALTC/")
     elif platform.system() == "Windows":
-        return os.path.join(os.environ['APPDATA'], "Pulse")
+        return os.path.join(os.environ['APPDATA'], "ALTC")
     return os.path.expanduser("~/.ALTC")
 
 def read_bitcoin_config(dbdir):

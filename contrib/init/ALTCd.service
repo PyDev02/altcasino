@@ -8,7 +8,7 @@
 # /etc/ALTC/ALTC.conf
 
 [Unit]
-Description=Pulse daemon
+Description=ALTC daemon
 After=network.target
 
 [Service]

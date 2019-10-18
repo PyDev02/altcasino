@@ -1,9 +1,9 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Pulse
-Comment=Pulse P2P Cryptocurrency
-Comment[fr]=Pulse, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Pulse, eşten eşe kriptografik sanal para birimi
+Name=ALTC
+Comment=ALTC P2P Cryptocurrency
+Comment[fr]=ALTC, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ALTC, eşten eşe kriptografik sanal para birimi
 Exec=ALTC-qt %u
 Terminal=false
 Type=Application

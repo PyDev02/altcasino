@@ -62,12 +62,12 @@
         <translation>Direcciones de recepción</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones de Pulse para enviar pagos. Compruebe siempre la cantidad así como la dirección de destino antes de enviar moneda.</translation>
+        <source>These are your ALTC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones de ALTC para enviar pagos. Compruebe siempre la cantidad así como la dirección de destino antes de enviar moneda.</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son sus direcciones de Pulse para recibir pagos. Es recomendable que use una dirección nueva para cada transacción.</translation>
+        <source>These are your ALTC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son sus direcciones de ALTC para recibir pagos. Es recomendable que use una dirección nueva para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Confirmar encriptación del monedero</translation>
     </message>
     <message>
-        <source>Pulse will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
-        <translation>Pulse se cerrará ahora para completar el proceso de encriptación. Recuerde que la encriptación no le protege completamente del robo de sus ALTCs frente a malware que infecte su ordenador.</translation>
+        <source>ALTC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
+        <translation>ALTC se cerrará ahora para completar el proceso de encriptación. Recuerde que la encriptación no le protege completamente del robo de sus ALTCs frente a malware que infecte su ordenador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -254,12 +254,12 @@
         <translation>Dirección:</translation>
     </message>
     <message>
-        <source>Enter a Pulse Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Ingrese una dirección Pulse que le gustaría encriptar usando BIP 38. Ingrese una contraseña en el cuadro del medio. Presione encriptar para calcular la clave privada encriptada.</translation>
+        <source>Enter a ALTC Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Ingrese una dirección ALTC que le gustaría encriptar usando BIP 38. Ingrese una contraseña en el cuadro del medio. Presione encriptar para calcular la clave privada encriptada.</translation>
     </message>
     <message>
-        <source>The Pulse address to encrypt</source>
-        <translation>La dirección Pulse a encriptar</translation>
+        <source>The ALTC address to encrypt</source>
+        <translation>La dirección ALTC a encriptar</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Pulse address</source>
-        <translation>Cifrar la llave privada para esta dirección Pulse</translation>
+        <source>Encrypt the private key for this ALTC address</source>
+        <translation>Cifrar la llave privada para esta dirección ALTC</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -530,8 +530,8 @@
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Pulse address to sign the message with</source>
-        <translation>Dirección Pulse con la que firmar el mensaje</translation>
+        <source>The ALTC address to sign the message with</source>
+        <translation>Dirección ALTC con la que firmar el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -554,8 +554,8 @@
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Pulse address</source>
-        <translation>Firme el mensaje para probar que Ud. es el propietario de esta dirección Pulse</translation>
+        <source>Sign the message to prove you own this ALTC address</source>
+        <translation>Firme el mensaje para probar que Ud. es el propietario de esta dirección ALTC</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>

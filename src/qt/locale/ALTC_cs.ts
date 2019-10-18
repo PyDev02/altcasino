@@ -62,12 +62,12 @@
         <translation>Adresy pro přijetí peněz</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto jsou Vaše Pulse adresy pro poslání platby. Vždy si překontrolujte množství peněz a cílovou adresu než platbu odešlete.</translation>
+        <source>These are your ALTC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto jsou Vaše ALTC adresy pro poslání platby. Vždy si překontrolujte množství peněz a cílovou adresu než platbu odešlete.</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto jsou Vaše Pulse adresy pro přijetí plateb. Je doporučeno použít novou adresu pro každou novou transakci.</translation>
+        <source>These are your ALTC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto jsou Vaše ALTC adresy pro přijetí plateb. Je doporučeno použít novou adresu pro každou novou transakci.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,8 +172,8 @@
         <translation>Potvrdit zašifrování peněženky</translation>
     </message>
     <message>
-        <source>Pulse will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
-        <translation>Pulse se teď zavře pro dokončení šifrovacího procesu. Prosím, vemte na vědomí, že zašifrování Vaší peněženky plně neochrání Vaše ALTCy před krádží, pokud je Váš počítač infikován malwarem.</translation>
+        <source>ALTC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
+        <translation>ALTC se teď zavře pro dokončení šifrovacího procesu. Prosím, vemte na vědomí, že zašifrování Vaší peněženky plně neochrání Vaše ALTCy před krádží, pokud je Váš počítač infikován malwarem.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -601,12 +601,12 @@
         <translation>Nástrojová lišta záložek</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
-        <source>Send coins to a Pulse address</source>
-        <translation>Odeslat platbuna Pulse adresu</translation>
+        <source>Send coins to a ALTC address</source>
+        <translation>Odeslat platbuna ALTC adresu</translation>
     </message>
     <message>
         <source>Request Payments (generates QR codes and ALTC: URIs)</source>
@@ -625,24 +625,24 @@
         <translation>Procházet masternody</translation>
     </message>
     <message>
-        <source>&amp;About Pulse Core</source>
-        <translation>&amp;O Pulse Core</translation>
+        <source>&amp;About ALTC Core</source>
+        <translation>&amp;O ALTC Core</translation>
     </message>
     <message>
-        <source>Show information about Pulse Core</source>
-        <translation>Zobraz informace o Pulse Core</translation>
+        <source>Show information about ALTC Core</source>
+        <translation>Zobraz informace o ALTC Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Pulse</source>
-        <translation>Upravit možnosti konfigurace pro Pulse</translation>
+        <source>Modify configuration options for ALTC</source>
+        <translation>Upravit možnosti konfigurace pro ALTC</translation>
     </message>
     <message>
-        <source>Sign messages with your Pulse addresses to prove you own them</source>
-        <translation>Podepsat zprávy Vaší Pulse adresou pro prokázaní, že jste jejich vlastníkem</translation>
+        <source>Sign messages with your ALTC addresses to prove you own them</source>
+        <translation>Podepsat zprávy Vaší ALTC adresou pro prokázaní, že jste jejich vlastníkem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Pulse addresses</source>
-        <translation>Ověřit zprávy k zajištění, že bylypodepsány vybranými Pulse adresami</translation>
+        <source>Verify messages to ensure they were signed with specified ALTC addresses</source>
+        <translation>Ověřit zprávy k zajištění, že bylypodepsány vybranými ALTC adresami</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -673,8 +673,8 @@
         <translation>Otevřít Masternodový konfigurační soubor</translation>
     </message>
     <message>
-        <source>Open a Pulse: URI or payment request</source>
-        <translation>Otevřít Pulse: URI nebo platební žádost</translation>
+        <source>Open a ALTC: URI or payment request</source>
+        <translation>Otevřít ALTC: URI nebo platební žádost</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -685,12 +685,12 @@
         <translation>Okno blokového průzkumníka</translation>
     </message>
     <message>
-        <source>Show the Pulse Core help message to get a list with possible Pulse command-line options</source>
-        <translation>Zobrazit Pulse Core pomocnou zpráv pro získání seznamu možných parametrů Pulse pro příkazy do příkazové řádky</translation>
+        <source>Show the ALTC Core help message to get a list with possible ALTC command-line options</source>
+        <translation>Zobrazit ALTC Core pomocnou zpráv pro získání seznamu možných parametrů ALTC pro příkazy do příkazové řádky</translation>
     </message>
     <message>
-        <source>Pulse Core client</source>
-        <translation>Pulse Core klient</translation>
+        <source>ALTC Core client</source>
+        <translation>ALTC Core klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1081,8 +1081,8 @@ MultiSend: %1</translation>
         <translation>Upravit adresu k odeslání platby</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Pulse address.</source>
-        <translation>Zadaná adresa "%1" není validní Pulse adresa.</translation>
+        <source>The entered address "%1" is not a valid ALTC address.</source>
+        <translation>Zadaná adresa "%1" není validní ALTC adresa.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1127,12 +1127,12 @@ MultiSend: %1</translation>
         <translation>verze</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
-        <source>About Pulse Core</source>
-        <translation>O Pulse Core</translation>
+        <source>About ALTC Core</source>
+        <translation>O ALTC Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1166,16 +1166,16 @@ MultiSend: %1</translation>
         <translation>Vítejte</translation>
     </message>
     <message>
-        <source>Welcome to Pulse Core.</source>
-        <translation>Vítejte v Pulse Core.</translation>
+        <source>Welcome to ALTC Core.</source>
+        <translation>Vítejte v ALTC Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Pulse Core will store its data.</source>
-        <translation>Při prvním spuštění programu si můžete vybrat, kam bude Pulse Core ukládat svá data.</translation>
+        <source>As this is the first time the program is launched, you can choose where ALTC Core will store its data.</source>
+        <translation>Při prvním spuštění programu si můžete vybrat, kam bude ALTC Core ukládat svá data.</translation>
     </message>
     <message>
-        <source>Pulse Core will download and store a copy of the Pulse block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Pulse Core stáhne a uloží kopii Pulse blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
+        <source>ALTC Core will download and store a copy of the ALTC block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>ALTC Core stáhne a uloží kopii ALTC blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1186,8 +1186,8 @@ MultiSend: %1</translation>
         <translation>Použít vlastní složku pro data</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1550,12 +1550,12 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start Pulse after logging in to the system.</source>
-        <translation>Automaticky spustit Pulse po přihlášení do systému</translation>
+        <source>Automatically start ALTC after logging in to the system.</source>
+        <translation>Automaticky spustit ALTC po přihlášení do systému</translation>
     </message>
     <message>
-        <source>&amp;Start Pulse on system login</source>
-        <translation>&amp;Spusti Pulse při přihlášení do systému</translation>
+        <source>&amp;Start ALTC on system login</source>
+        <translation>&amp;Spusti ALTC při přihlášení do systému</translation>
     </message>
     <message>
         <source>Show Masternodes Tab</source>
@@ -2212,8 +2212,8 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Pulse address to sign the message with</source>
-        <translation>Pulse adresa pro podepsání zprávy</translation>
+        <source>The ALTC address to sign the message with</source>
+        <translation>ALTC adresa pro podepsání zprávy</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2240,16 +2240,16 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Kopírovat aktuální podpis do systémové mezipaměti</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Pulse address</source>
-        <translation>Podepsat zprávu k prokázání, že vlastníte tuto Pulse adresu</translation>
+        <source>Sign the message to prove you own this ALTC address</source>
+        <translation>Podepsat zprávu k prokázání, že vlastníte tuto ALTC adresu</translation>
     </message>
     <message>
-        <source>The Pulse address the message was signed with</source>
-        <translation>Pulse adresa zprávy byla podpsána</translation>
+        <source>The ALTC address the message was signed with</source>
+        <translation>ALTC adresa zprávy byla podpsána</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Pulse address</source>
-        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou Pulse adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified ALTC address</source>
+        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou ALTC adresou</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2291,8 +2291,8 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     </context>
 <context>

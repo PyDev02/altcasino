@@ -1,6 +1,6 @@
-Pulse#!/bin/bash
+ALTC#!/bin/bash
 #
-#  ALTCd The Pulse core server.
+#  ALTCd The ALTC core server.
 #
 #
 # chkconfig: 345 80 20

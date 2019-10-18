@@ -98,7 +98,7 @@
               </font>
              </property>
              <property name="text">
-              <string>Pulse Wallet</string>
+              <string>ALTC Wallet</string>
              </property>
              <property name="alignment">
               <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
@@ -213,7 +213,7 @@
                           <cursorShape>WhatsThisCursor</cursorShape>
                          </property>
                          <property name="toolTip">
-                          <string>The displayed information may be out of date. Your wallet automatically synchronizes with the Pulse network after a connection is established, but this process has not completed yet.</string>
+                          <string>The displayed information may be out of date. Your wallet automatically synchronizes with the ALTC network after a connection is established, but this process has not completed yet.</string>
                          </property>
                          <property name="styleSheet">
                           <string notr="true">QLabel { color: red; }</string>
@@ -535,7 +535,7 @@
                        <item row="5" column="0">
                         <widget class="QLabel" name="labelTotalText">
                          <property name="toolTip">
-                          <string>Your current Pulse balance, unconfirmed and immature transactions included</string>
+                          <string>Your current ALTC balance, unconfirmed and immature transactions included</string>
                          </property>
                          <property name="text">
                           <string>Total:</string>
@@ -554,7 +554,7 @@
                           <cursorShape>IBeamCursor</cursorShape>
                          </property>
                          <property name="toolTip">
-                          <string>Your current Pulse balance, unconfirmed and immature transactions included</string>
+                          <string>Your current ALTC balance, unconfirmed and immature transactions included</string>
                          </property>
                          <property name="text">
                           <string notr="true">0.000 000 00 ALTC</string>
@@ -673,7 +673,7 @@
                        <cursorShape>WhatsThisCursor</cursorShape>
                       </property>
                       <property name="toolTip">
-                       <string>The displayed information may be out of date. Your wallet automatically synchronizes with the Pulse network after a connection is established, but this process has not completed yet.</string>
+                       <string>The displayed information may be out of date. Your wallet automatically synchronizes with the ALTC network after a connection is established, but this process has not completed yet.</string>
                       </property>
                       <property name="styleSheet">
                        <string notr="true">QLabel { color: red; }</string>

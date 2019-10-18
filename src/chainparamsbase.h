@@ -1,5 +1,5 @@
 // Copyright (c) 2014 The Bitcoin developers
-// Copyright (c) 2017 The Pulse developers
+// Copyright (c) 2017 The ALTC developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -11,7 +11,7 @@
 
 /**
  * CBaseChainParams defines the base parameters (shared between ALTC-cli and ALTCd)
- * of a given instance of the Pulse system.
+ * of a given instance of the ALTC system.
  */
 class CBaseChainParams
 {

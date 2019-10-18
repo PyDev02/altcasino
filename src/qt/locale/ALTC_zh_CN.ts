@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>选择发送Pulse coin的地址</translation>
+        <translation>选择发送ALTC coin的地址</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>选择接收Pulse coin的地址</translation>
+        <translation>选择接收ALTC coin的地址</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -62,12 +62,12 @@
         <translation>接收地址</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>这是用于发送Pulse的地址。在发送Pulse之前，请认真核查发送金额和接收地址。</translation>
+        <source>These are your ALTC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>这是用于发送ALTC的地址。在发送ALTC之前，请认真核查发送金额和接收地址。</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>这是用于接收Pulse的钱包地址。建议每一笔交易都使用一个新的钱包地址。</translation>
+        <source>These are your ALTC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>这是用于接收ALTC的钱包地址。建议每一笔交易都使用一个新的钱包地址。</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,8 +172,8 @@
         <translation>确认钱包加密</translation>
     </message>
     <message>
-        <source>Pulse will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
-        <translation>Pulse将关闭以完成加密过程。但是，仅仅加密您的钱包是不够的，因为它并不能阻止恶意软件从您的电脑里面偷取ALTCs。</translation>
+        <source>ALTC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
+        <translation>ALTC将关闭以完成加密过程。但是，仅仅加密您的钱包是不够的，因为它并不能阻止恶意软件从您的电脑里面偷取ALTCs。</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -569,12 +569,12 @@
         <translation>标签工具栏</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
-        <source>Send coins to a Pulse address</source>
-        <translation>发送数字货币到Pulse地址</translation>
+        <source>Send coins to a ALTC address</source>
+        <translation>发送数字货币到ALTC地址</translation>
     </message>
     <message>
         <source>Request Payments (generates QR codes and ALTC: URIs)</source>
@@ -593,24 +593,24 @@
         <translation>浏览主节点</translation>
     </message>
     <message>
-        <source>&amp;About Pulse Core</source>
-        <translation>&amp;A关于Pulse Core</translation>
+        <source>&amp;About ALTC Core</source>
+        <translation>&amp;A关于ALTC Core</translation>
     </message>
     <message>
-        <source>Show information about Pulse Core</source>
-        <translation>显示Pulse  Core的相关信息</translation>
+        <source>Show information about ALTC Core</source>
+        <translation>显示ALTC  Core的相关信息</translation>
     </message>
     <message>
-        <source>Modify configuration options for Pulse</source>
-        <translation>修改Pulse的配置选项</translation>
+        <source>Modify configuration options for ALTC</source>
+        <translation>修改ALTC的配置选项</translation>
     </message>
     <message>
-        <source>Sign messages with your Pulse addresses to prove you own them</source>
-        <translation>使用您的Pulse地址验证消息，以证明您拥有他们</translation>
+        <source>Sign messages with your ALTC addresses to prove you own them</source>
+        <translation>使用您的ALTC地址验证消息，以证明您拥有他们</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Pulse addresses</source>
-        <translation>验证消息确保它已使用指定的Pulse地址进行签名</translation>
+        <source>Verify messages to ensure they were signed with specified ALTC addresses</source>
+        <translation>验证消息确保它已使用指定的ALTC地址进行签名</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -641,8 +641,8 @@
         <translation>打开主节点配置文件</translation>
     </message>
     <message>
-        <source>Open a Pulse: URI or payment request</source>
-        <translation>打开Pulse：URI或付款请求</translation>
+        <source>Open a ALTC: URI or payment request</source>
+        <translation>打开ALTC：URI或付款请求</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -653,12 +653,12 @@
         <translation>区块浏览窗口</translation>
     </message>
     <message>
-        <source>Show the Pulse Core help message to get a list with possible Pulse command-line options</source>
-        <translation>显示Pulse Core帮助信息并获取Pulse命令行选项列表</translation>
+        <source>Show the ALTC Core help message to get a list with possible ALTC command-line options</source>
+        <translation>显示ALTC Core帮助信息并获取ALTC命令行选项列表</translation>
     </message>
     <message>
-        <source>Pulse Core client</source>
-        <translation>Pulse Core 客户端</translation>
+        <source>ALTC Core client</source>
+        <translation>ALTC Core 客户端</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -803,31 +803,31 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
-        <source>About Pulse Core</source>
-        <translation>关于Pulse Core</translation>
+        <source>About ALTC Core</source>
+        <translation>关于ALTC Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Welcome to Pulse Core.</source>
-        <translation>欢迎使用 Pulse Core</translation>
+        <source>Welcome to ALTC Core.</source>
+        <translation>欢迎使用 ALTC Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Pulse Core will store its data.</source>
-        <translation>由于这是该程序第一次启动，您可以选择存储Pulse Core 数据的位置。</translation>
+        <source>As this is the first time the program is launched, you can choose where ALTC Core will store its data.</source>
+        <translation>由于这是该程序第一次启动，您可以选择存储ALTC Core 数据的位置。</translation>
     </message>
     <message>
-        <source>Pulse Core will download and store a copy of the Pulse block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Pulse Core将下载并存储Pulse区块链副本。 至少 %1 GB的数据将存储在此目录中，并且会随着时间的推移而增长。 钱包也将存储在此目录中。</translation>
+        <source>ALTC Core will download and store a copy of the ALTC block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>ALTC Core将下载并存储ALTC区块链副本。 至少 %1 GB的数据将存储在此目录中，并且会随着时间的推移而增长。 钱包也将存储在此目录中。</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -920,16 +920,16 @@ Address: %4
         <translation>如果您要禁用未经确认发送，在至少有一个确认之前&lt;br/&gt;不能更改。&lt;br/&gt;这也将影响您的余额计算。</translation>
     </message>
     <message>
-        <source>Automatically open the Pulse client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自动打开路由器上的Pulse钱包使用的端口。 这只有当您的路由器支持UPnP并且该享生效时才有用。</translation>
+        <source>Automatically open the ALTC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>自动打开路由器上的ALTC钱包使用的端口。 这只有当您的路由器支持UPnP并且该享生效时才有用。</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
         <translation>&amp;使用SOCKS5代理（默认代理）</translation>
     </message>
     <message>
-        <source>&amp;Start Pulse on system login</source>
-        <translation>&amp;开机启动Pulse</translation>
+        <source>&amp;Start ALTC on system login</source>
+        <translation>&amp;开机启动ALTC</translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
@@ -989,7 +989,7 @@ Address: %4
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>选择显示发送Pulse的默认单位。</translation>
+        <translation>选择显示发送ALTC的默认单位。</translation>
     </message>
     <message>
         <source>Decimal digits</source>
@@ -1067,8 +1067,8 @@ Address: %4
         <translation>您目前的支出余额</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pulse network after a connection is established, but this process has not completed yet.</source>
-        <translation>显示的信息可能已过期。建立连接后，您的钱包会自动与Pulse网络同步，但此过程尚未完成。</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ALTC network after a connection is established, but this process has not completed yet.</source>
+        <translation>显示的信息可能已过期。建立连接后，您的钱包会自动与ALTC网络同步，但此过程尚未完成。</translation>
     </message>
     <message>
         <source>Your current balance in watch-only addresses</source>
@@ -1084,8 +1084,8 @@ Address: %4
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pulse network after a connection is established, but this process has not completed yet.</source>
-        <translation>显示的信息可能已过期。建立连接后，您的钱包会自动与Pulse网络同步，但此过程尚未完成。</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ALTC network after a connection is established, but this process has not completed yet.</source>
+        <translation>显示的信息可能已过期。建立连接后，您的钱包会自动与ALTC网络同步，但此过程尚未完成。</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
@@ -1172,12 +1172,12 @@ Address: %4
         <translation>&amp;消息：</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Pulse network.</source>
-        <translation>附加到付款请求的可选消息，将在请求打开时显示。 注意：消息不会在付款时通过Pulse网络发送。</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the ALTC network.</source>
+        <translation>附加到付款请求的可选消息，将在请求打开时显示。 注意：消息不会在付款时通过ALTC网络发送。</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Pulse network.</source>
-        <translation>附加到付款请求的可选消息，将在请求打开时显示。&lt;br&gt; 注意：消息不会在付款时通过Pulse网络发送。</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the ALTC network.</source>
+        <translation>附加到付款请求的可选消息，将在请求打开时显示。&lt;br&gt; 注意：消息不会在付款时通过ALTC网络发送。</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
@@ -1312,8 +1312,8 @@ Address: %4
         <translation>消息:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Pulse: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Pulse network.</source>
-        <translation>附加到Pulse：URI的消息，该消息将与转账信息一起存储以供参考。 注意：此消息不会通过Pulse网络发送。</translation>
+        <source>A message that was attached to the ALTC: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the ALTC network.</source>
+        <translation>附加到ALTC：URI的消息，该消息将与转账信息一起存储以供参考。 注意：此消息不会通过ALTC网络发送。</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
@@ -1338,8 +1338,8 @@ Address: %4
         <translation>您可以使用地址签名消息，以证明您拥有他们。 小心不要签名任何您不了解的，因为网络钓鱼攻击可能会试图欺骗您，以让您签名。 只能签署您熟悉并且了解和同意的。</translation>
     </message>
     <message>
-        <source>The Pulse address to sign the message with</source>
-        <translation>该Pulse地址签名的消息</translation>
+        <source>The ALTC address to sign the message with</source>
+        <translation>该ALTC地址签名的消息</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1366,16 +1366,16 @@ Address: %4
         <translation>将当前签名复制到系统剪贴板</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Pulse address</source>
-        <translation>签署消息以证明您拥有此Pulse地址</translation>
+        <source>Sign the message to prove you own this ALTC address</source>
+        <translation>签署消息以证明您拥有此ALTC地址</translation>
     </message>
     <message>
-        <source>The Pulse address the message was signed with</source>
-        <translation>由Pulse地址签名的消息</translation>
+        <source>The ALTC address the message was signed with</source>
+        <translation>由ALTC地址签名的消息</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Pulse address</source>
-        <translation>验证消息确保它已使用指定的Pulse地址进行签名</translation>
+        <source>Verify the message to ensure it was signed with the specified ALTC address</source>
+        <translation>验证消息确保它已使用指定的ALTC地址进行签名</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1453,8 +1453,8 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     </context>
 <context>
@@ -1542,8 +1542,8 @@ Address: %4
         <translation>在收到相关警报时执行命令，或者看到一个很长的分叉（cmd中的%s被消息替换）</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Pulse Core will not work properly.</source>
-        <translation>注意：请检查您的电脑的日期和时间是否正确！ 如果您的时间设置不正确，Pulse Core将无法正常工作。</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong ALTC Core will not work properly.</source>
+        <translation>注意：请检查您的电脑的日期和时间是否正确！ 如果您的时间设置不正确，ALTC Core将无法正常工作。</translation>
     </message>
     <message>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>

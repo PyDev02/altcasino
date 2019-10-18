@@ -62,12 +62,12 @@
         <translation>Adresa primatelja</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To su vaše Pulse adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your ALTC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To su vaše ALTC adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To su vaše Pulse adrese za primanje uplata. Preporuča se upotreba nove adrese primatelja za svaku transakciju.</translation>
+        <source>These are your ALTC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To su vaše ALTC adrese za primanje uplata. Preporuča se upotreba nove adrese primatelja za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Potvrdi šifriranje novčanika</translation>
     </message>
     <message>
-        <source>Pulse will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
-        <translation>Pulse se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše ALTC od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
+        <source>ALTC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
+        <translation>ALTC se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše ALTC od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -254,12 +254,12 @@
         <translation>Adresa:</translation>
     </message>
     <message>
-        <source>Enter a Pulse Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Unesite Pulse adresu koju želite šifrirati pomoću BIP 38. Unesite zaporku u srednjem okviru. Pritisnite šifriranje za izračunavanje šifriranog privatnog ključa.</translation>
+        <source>Enter a ALTC Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Unesite ALTC adresu koju želite šifrirati pomoću BIP 38. Unesite zaporku u srednjem okviru. Pritisnite šifriranje za izračunavanje šifriranog privatnog ključa.</translation>
     </message>
     <message>
-        <source>The Pulse address to encrypt</source>
-        <translation>Pulse adresa za šifriranje</translation>
+        <source>The ALTC address to encrypt</source>
+        <translation>ALTC adresa za šifriranje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopirajte trenutačni potpis u međuspremnik sustava</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Pulse address</source>
-        <translation>Šifriranje privatnog ključa za ovu Pulse adresu</translation>
+        <source>Encrypt the private key for this ALTC address</source>
+        <translation>Šifriranje privatnog ključa za ovu ALTC adresu</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,12 +645,12 @@
         <translation>Alatna traka kartica</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
-        <source>Send coins to a Pulse address</source>
-        <translation>Pošaljite kovanice na Pulse adresu</translation>
+        <source>Send coins to a ALTC address</source>
+        <translation>Pošaljite kovanice na ALTC adresu</translation>
     </message>
     <message>
         <source>Request Payments (generates QR codes and ALTC: URIs)</source>
@@ -669,24 +669,24 @@
         <translation>Pretraži masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Pulse Core</source>
-        <translation>O Pulse Core</translation>
+        <source>&amp;About ALTC Core</source>
+        <translation>O ALTC Core</translation>
     </message>
     <message>
-        <source>Show information about Pulse Core</source>
-        <translation>Prikaz informacija o Pulse Core-u</translation>
+        <source>Show information about ALTC Core</source>
+        <translation>Prikaz informacija o ALTC Core-u</translation>
     </message>
     <message>
-        <source>Modify configuration options for Pulse</source>
-        <translation>Izmijenite konfiguracijske opcije za Pulse</translation>
+        <source>Modify configuration options for ALTC</source>
+        <translation>Izmijenite konfiguracijske opcije za ALTC</translation>
     </message>
     <message>
-        <source>Sign messages with your Pulse addresses to prove you own them</source>
-        <translation>Potpišite poruke s vašim Pulse adresama kako biste dokazali da ih posjedujete</translation>
+        <source>Sign messages with your ALTC addresses to prove you own them</source>
+        <translation>Potpišite poruke s vašim ALTC adresama kako biste dokazali da ih posjedujete</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Pulse addresses</source>
-        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim Pulse adresama</translation>
+        <source>Verify messages to ensure they were signed with specified ALTC addresses</source>
+        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim ALTC adresama</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Otvori Masternode konfiguracijsku datoteku</translation>
     </message>
     <message>
-        <source>Open a Pulse: URI or payment request</source>
-        <translation>Otvori Pulse: URI zahtjev za plačanje</translation>
+        <source>Open a ALTC: URI or payment request</source>
+        <translation>Otvori ALTC: URI zahtjev za plačanje</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Prozor Block preglednika</translation>
     </message>
     <message>
-        <source>Show the Pulse Core help message to get a list with possible Pulse command-line options</source>
-        <translation>Pokažite poruku Pulse Core pomoći da biste dobili popis s mogućim Pulse opcijama naredbenog retka</translation>
+        <source>Show the ALTC Core help message to get a list with possible ALTC command-line options</source>
+        <translation>Pokažite poruku ALTC Core pomoći da biste dobili popis s mogućim ALTC opcijama naredbenog retka</translation>
     </message>
     <message>
-        <source>Pulse Core client</source>
+        <source>ALTC Core client</source>
         <translation>ALTCIX Core Klijent</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Pulse network</source>
-        <translation><numerusform>%n aktivne veze na Pulse mrežu</numerusform><numerusform>%n aktivne veze na Pulse mrežu</numerusform><numerusform>%n aktivne veze na Pulse mrežu</numerusform></translation>
+        <source>%n active connection(s) to ALTC network</source>
+        <translation><numerusform>%n aktivne veze na ALTC mrežu</numerusform><numerusform>%n aktivne veze na ALTC mrežu</numerusform><numerusform>%n aktivne veze na ALTC mrežu</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1185,8 +1185,8 @@ Višestruko slanje: %1</translation>
         <translation>Uređivanje adrese slanja</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Pulse address.</source>
-        <translation>Unesena adresa "%1" nije važeća Pulse adresa.</translation>
+        <source>The entered address "%1" is not a valid ALTC address.</source>
+        <translation>Unesena adresa "%1" nije važeća ALTC adresa.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ Višestruko slanje: %1</translation>
         <translation>verzija</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Pulse Core</source>
-        <translation>O Pulse Core</translation>
+        <source>About ALTC Core</source>
+        <translation>O ALTC Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ Višestruko slanje: %1</translation>
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to Pulse Core.</source>
-        <translation>Dobrodošli u Pulse Core.</translation>
+        <source>Welcome to ALTC Core.</source>
+        <translation>Dobrodošli u ALTC Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Pulse Core will store its data.</source>
-        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će Pulse Core pohraniti svoje podatke.</translation>
+        <source>As this is the first time the program is launched, you can choose where ALTC Core will store its data.</source>
+        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će ALTC Core pohraniti svoje podatke.</translation>
     </message>
     <message>
-        <source>Pulse Core will download and store a copy of the Pulse block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Pulse Core preuzima i pohranjuje kopiju Pulse blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
+        <source>ALTC Core will download and store a copy of the ALTC block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>ALTC Core preuzima i pohranjuje kopiju ALTC blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ Višestruko slanje: %1</translation>
         <translation>Koristite prilagođeni direktorij podataka:</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ Višestruko slanje: %1</translation>
         <translation>Unesite adresu za slanje</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Pulse addresses after it matures.
-To Add: enter percentage to give and Pulse address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other ALTC addresses after it matures.
+To Add: enter percentage to give and ALTC address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend vam omogućuje da automatski pošaljete do 100% svoje nagrade za ulog ili masternode  nagrade na popis drugih Pulse adresa nakon što sazrijete.
-Za Dodaj: unesite postotak za davanje i Pulse adresu za dodavanje MultiSend vektoru.
+        <translation>MultiSend vam omogućuje da automatski pošaljete do 100% svoje nagrade za ulog ili masternode  nagrade na popis drugih ALTC adresa nakon što sazrijete.
+Za Dodaj: unesite postotak za davanje i ALTC adresu za dodavanje MultiSend vektoru.
 Za brisanje: Unesite adresu za brisanje i pritisnite Delete.
 MultiSend neće biti aktiviran dok ne kliknete Aktiviraj</translation>
     </message>
@@ -1811,16 +1811,16 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Obfuscation Konfiguracija</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Pulse's configuration screen.</source>
-        <translation>Obfuscation je uspješno postavljen na osnovne (%1 i 2 runde). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju Pulse-a.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening ALTC's configuration screen.</source>
+        <translation>Obfuscation je uspješno postavljen na osnovne (%1 i 2 runde). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju ALTC-a.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Pulse's configuration screen.</source>
-        <translation>Obfuscation je uspješno postavljen na visoku razinu (%1 i 8 krugova). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju Pulse-a</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening ALTC's configuration screen.</source>
+        <translation>Obfuscation je uspješno postavljen na visoku razinu (%1 i 8 krugova). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju ALTC-a</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Pulse's configuration screen.</source>
-        <translation>Obfuscation je uspješno postavljen na maksimalnu razinu (%1 i 16 krugova). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju Pulse-a.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening ALTC's configuration screen.</source>
+        <translation>Obfuscation je uspješno postavljen na maksimalnu razinu (%1 i 16 krugova). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju ALTC-a.</translation>
     </message>
 </context>
 <context>
@@ -1881,8 +1881,8 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Ako onemogućite potrošnju nepotvrđenih promjena, promjena s transakcijskog kanala bit će upotrijebljena sve dok ta transakcija nema barem jednu potvrdu. To također utječe na izračun salda.</translation>
     </message>
     <message>
-        <source>Automatically open the Pulse client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvorite Pulse klijentski priključak na rooteru. To funkcionira samo kada vaš rooter podržava UPnP i omogućen je.</translation>
+        <source>Automatically open the ALTC client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvorite ALTC klijentski priključak na rooteru. To funkcionira samo kada vaš rooter podržava UPnP i omogućen je.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1901,12 +1901,12 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Stručnjak</translation>
     </message>
     <message>
-        <source>Automatically start Pulse after logging in to the system.</source>
-        <translation>Automatski pokrenite Pulse nakon prijave u sustav.</translation>
+        <source>Automatically start ALTC after logging in to the system.</source>
+        <translation>Automatski pokrenite ALTC nakon prijave u sustav.</translation>
     </message>
     <message>
-        <source>&amp;Start Pulse on system login</source>
-        <translation>Pokrenite Pulse na prijavi u sustav</translation>
+        <source>&amp;Start ALTC on system login</source>
+        <translation>Pokrenite ALTC na prijavi u sustav</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1933,8 +1933,8 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Mreža</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Pulse.</source>
-        <translation>Ovdje se može postaviti jezik korisničkog sučelja. Ova postavka će stupiti na snagu nakon ponovnog pokretanja Pulse-a.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting ALTC.</source>
+        <translation>Ovdje se može postaviti jezik korisničkog sučelja. Ova postavka će stupiti na snagu nakon ponovnog pokretanja ALTC-a.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1976,8 +1976,8 @@ https://www.transifex.com/ALTC-project/ALTC-project-translations</translation>
         <translation>Prag razdvajanja Stake-a:</translation>
     </message>
     <message>
-        <source>Connect to the Pulse network through a SOCKS5 proxy.</source>
-        <translation>Povežite se s Pulse mrežom putem SOCKS5 proxy poslužitelja.</translation>
+        <source>Connect to the ALTC network through a SOCKS5 proxy.</source>
+        <translation>Povežite se s ALTC mrežom putem SOCKS5 proxy poslužitelja.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2155,8 +2155,8 @@ https://www.transifex.com/ALTC-project/ALTC-project-translations</translation>
         <translation>Trenutačno zaključana ravnoteža u adresama samo za gledanje</translation>
     </message>
     <message>
-        <source>Your current Pulse balance, unconfirmed and immature transactions included</source>
-        <translation>Uključena je vaša trenutna bilanca Pulse, nepotvrđene i nezrele transakcije</translation>
+        <source>Your current ALTC balance, unconfirmed and immature transactions included</source>
+        <translation>Uključena je vaša trenutna bilanca ALTC, nepotvrđene i nezrele transakcije</translation>
     </message>
     <message>
         <source>zALTC Balance</source>
@@ -2175,8 +2175,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nezreli: potvrđeno, ali manje od 1 minta iste denominacije nakon mintanja</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pulse network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s Pulse mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ALTC network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s ALTC mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2292,8 +2292,8 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>Ne može se pokrenuti ALTC: clik-to-pay handler</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Pulse address or malformed URI parameters.</source>
-        <translation>URI se ne može analizirati! To može biti uzrokovana nevažećom Pulse adresom ili nepravilnim URI parametrima.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid ALTC address or malformed URI parameters.</source>
+        <translation>URI se ne može analizirati! To može biti uzrokovana nevažećom ALTC adresom ili nepravilnim URI parametrima.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2378,8 +2378,8 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>Zerocoin radnje:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pulse network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s Pulse mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ALTC network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s ALTC mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2502,8 +2502,8 @@ zALTC su zreli kada imaju više od 20 potvrda I više od 2 mint od iste denomina
         <translation>Platiti:</translation>
     </message>
     <message>
-        <source>The Pulse address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Pulse adresa za slanje uplate. Stvara lokalno plaćanje za sebe kada je prazno.</translation>
+        <source>The ALTC address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>ALTC adresa za slanje uplate. Stvara lokalno plaćanje za sebe kada je prazno.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2926,8 +2926,8 @@ Maksimalno dopušteno:</translation>
         <translation>Nije dodijeljena adresa "Plati", stvarajući lokalnu uplatu</translation>
     </message>
     <message>
-        <source>Invalid Pulse Address</source>
-        <translation>Nevažeća Pulse Adresa</translation>
+        <source>Invalid ALTC Address</source>
+        <translation>Nevažeća ALTC Adresa</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -3027,8 +3027,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Iznos</translation>
     </message>
     <message>
-        <source>Enter a Pulse address (e.g. %1)</source>
-        <translation>Unesite Pulse adresu (npr., %1)</translation>
+        <source>Enter a ALTC address (e.g. %1)</source>
+        <translation>Unesite ALTC adresu (npr., %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3166,8 +3166,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Block chain</translation>
     </message>
     <message>
-        <source>Open the Pulse debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorite Pulse debug log datoteku iz aktualnog direktorija podataka. To može potrajati nekoliko sekundi za velike datoteke zapisnika.</translation>
+        <source>Open the ALTC debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorite ALTC debug log datoteku iz aktualnog direktorija podataka. To može potrajati nekoliko sekundi za velike datoteke zapisnika.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3382,8 +3382,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Iz:</translation>
     </message>
     <message>
-        <source>Welcome to the Pulse RPC console.</source>
-        <translation>Dobrodošli na Pulse RPC konzolu.</translation>
+        <source>Welcome to the ALTC RPC console.</source>
+        <translation>Dobrodošli na ALTC RPC konzolu.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3509,16 +3509,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dodatna oznaka za povezivanje s novom adresom primatelja.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Pulse network.</source>
-        <translation>Dodatna poruka priložena zahtjevu za plaćanje, koji će se prikazati kada se zahtjev otvori. Napomena: poruka neće biti poslana s plaćanjem putem Pulse mreže.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the ALTC network.</source>
+        <translation>Dodatna poruka priložena zahtjevu za plaćanje, koji će se prikazati kada se zahtjev otvori. Napomena: poruka neće biti poslana s plaćanjem putem ALTC mreže.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>PRIMI</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Pulse network.</source>
-        <translation>Dodatna poruka za pridruživanje zahtjevu za plaćanje koja će se prikazati kada se zahtjev otvori.Napomena: poruka neće biti poslana s plaćanjem putem Pulse mreže.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the ALTC network.</source>
+        <translation>Dodatna poruka za pridruživanje zahtjevu za plaćanje koja će se prikazati kada se zahtjev otvori.Napomena: poruka neće biti poslana s plaćanjem putem ALTC mreže.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3813,8 +3813,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Ako je prilagođena naknada postavljena na 1000 uALTC, a transakcija je samo 250 bajta, tada "po kilobajtu" plaća se samo 250 uALTC-ova, a "ukupno barem" plaća 1000 uALTC-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Pulse transactions than the network can process.</source>
-        <translation>Plaćanje samo minimalne naknade je sasvim u redu sve dok j obujma transakcija manji od prostora u blokovima. No, budite svjesni da to može dovesti do transakcije koja nikada se ne potvrđuje kada se pojavi više zahtjeva za Pulse transakcijama nego što mreža može obraditi.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for ALTC transactions than the network can process.</source>
+        <translation>Plaćanje samo minimalne naknade je sasvim u redu sve dok j obujma transakcija manji od prostora u blokovima. No, budite svjesni da to može dovesti do transakcije koja nikada se ne potvrđuje kada se pojavi više zahtjeva za ALTC transakcijama nego što mreža može obraditi.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3909,8 +3909,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Alat za podjelu blocka ne funkcionira s više adresa. Pokušajte ponovo.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Pulse address</source>
-        <translation>Upozorenje: Nevažeća Pulse adresa</translation>
+        <source>Warning: Invalid ALTC address</source>
+        <translation>Upozorenje: Nevažeća ALTC adresa</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -4012,8 +4012,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Platiti:</translation>
     </message>
     <message>
-        <source>The Pulse address to send the payment to</source>
-        <translation>Pulse adresa za slanje uplate</translation>
+        <source>The ALTC address to send the payment to</source>
+        <translation>ALTC adresa za slanje uplate</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4052,8 +4052,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Poruka:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Pulse: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Pulse network.</source>
-        <translation>Poruka koja je bila povezana s Pulse: URI koji će biti pohranjen s transakcijom za vašu referencu. Napomena: ova poruka neće biti poslana preko Pulse mreže.</translation>
+        <source>A message that was attached to the ALTC: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the ALTC network.</source>
+        <translation>Poruka koja je bila povezana s ALTC: URI koji će biti pohranjen s transakcijom za vašu referencu. Napomena: ova poruka neće biti poslana preko ALTC mreže.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -4079,8 +4079,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Pulse Core is shutting down...</source>
-        <translation>Pulse Core se zatvara ...</translation>
+        <source>ALTC Core is shutting down...</source>
+        <translation>ALTC Core se zatvara ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4102,8 +4102,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Možete potpisati poruke s vašim adresama kako biste dokazali da ih posjedujete. Pazite da ne potpišete ništa nejasno, jer napadi za krađu identiteta mogu Vas pokušati uvjeriti da vam potpišu identitet. Potpišite samo detalje oko kojih se slažete.</translation>
     </message>
     <message>
-        <source>The Pulse address to sign the message with</source>
-        <translation>Pulse adresa za potpisivanje poruke</translation>
+        <source>The ALTC address to sign the message with</source>
+        <translation>ALTC adresa za potpisivanje poruke</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4134,16 +4134,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Kopirajte trenutačni potpis u međuspremnik sustava</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Pulse address</source>
-        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove Pulse adrese</translation>
+        <source>Sign the message to prove you own this ALTC address</source>
+        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove ALTC adrese</translation>
     </message>
     <message>
-        <source>The Pulse address the message was signed with</source>
-        <translation>Pulse adresa s kojom je potpisana poruka</translation>
+        <source>The ALTC address the message was signed with</source>
+        <translation>ALTC adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Pulse address</source>
-        <translation>Potvrdite poruku kako biste bili sigurni da je potpisana s navedenom Pulse adresom</translation>
+        <source>Verify the message to ensure it was signed with the specified ALTC address</source>
+        <translation>Potvrdite poruku kako biste bili sigurni da je potpisana s navedenom ALTC adresom</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4229,8 +4229,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4245,8 +4245,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dash Core programeri</translation>
     </message>
     <message>
-        <source>The Pulse Core developers</source>
-        <translation>Pulse Core programeri</translation>
+        <source>The ALTC Core developers</source>
+        <translation>ALTC Core programeri</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4911,8 +4911,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Izračunata kontrolna točka akumulatora nije ono što se bilježi indeksom blokova</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Pulse Core is probably already running.</source>
-        <translation>Nije moguće dobiti zaključavanje na direktoriju podataka %s. Pulse Core vjerojatno već radi.</translation>
+        <source>Cannot obtain a lock on data directory %s. ALTC Core is probably already running.</source>
+        <translation>Nije moguće dobiti zaključavanje na direktoriju podataka %s. ALTC Core vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -5087,8 +5087,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Ovaj proizvod uključuje softver razvijen od strane OpenSSL projekta za uporabu u OpenSSL Toolkitu i kriptografskom softveru kojeg je napisao Eric Young i UPnP softver koji je napisao Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Pulse Core is probably already running.</source>
-        <translation>Nije moguće vezati se na %s na ovom računalu. Pulse Core vjerojatno već radi.</translation>
+        <source>Unable to bind to %s on this computer. ALTC Core is probably already running.</source>
+        <translation>Nije moguće vezati se na %s na ovom računalu. ALTC Core vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -5115,8 +5115,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Upozorenje: -paytxfee je vrlo visoka! To je transakcijska naknada koju ćete platiti ako šaljete transakciju.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Pulse Core will not work properly.</source>
-        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, Pulse Core neće raditi ispravno.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong ALTC Core will not work properly.</source>
+        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, ALTC Core neće raditi ispravno.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5267,8 +5267,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Autorska prava (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Pulse Core Developers</source>
-        <translation>Autorska prava (C) 2015-%i The Pulse Core Developers</translation>
+        <source>Copyright (C) 2015-%i The ALTC Core Developers</source>
+        <translation>Autorska prava (C) 2015-%i The ALTC Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5356,8 +5356,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Pogreška pri učitavanju wallet.dat: novčanik oštećen</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Pulse Core</source>
-        <translation>Pogreška prilikom učitavanja wallet.dat: Novčanik zahtijeva noviju verziju Pulse jezgre</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of ALTC Core</source>
+        <translation>Pogreška prilikom učitavanja wallet.dat: Novčanik zahtijeva noviju verziju ALTC jezgre</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5472,8 +5472,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Informacije</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Pulse Core is shutting down.</source>
-        <translation>Provjera ispravnosti inicijalizacije nije uspjela. Pulse Core se zatvara.</translation>
+        <source>Initialization sanity check failed. ALTC Core is shutting down.</source>
+        <translation>Provjera ispravnosti inicijalizacije nije uspjela. ALTC Core se zatvara.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5583,8 +5583,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>uklonjene nepotvrđene transakcije</translation>
     </message>
     <message>
-        <source>Disable all Pulse specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Onemogući sve specifične funkcije Pulse (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, zadano: %u)</translation>
+        <source>Disable all ALTC specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Onemogući sve specifične funkcije ALTC (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, zadano: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -6295,8 +6295,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Novčanik zaključan.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Pulse Core to complete</source>
-        <translation>Potrebno je prepisati novčanik: ponovo pokrenite Pulse Core</translation>
+        <source>Wallet needed to be rewritten: restart ALTC Core to complete</source>
+        <translation>Potrebno je prepisati novčanik: ponovo pokrenite ALTC Core</translation>
     </message>
     <message>
         <source>Wallet options:</source>

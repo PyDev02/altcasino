@@ -1,6 +1,6 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
-// Copyright (c) 2015-2018 The Pulse developers
+// Copyright (c) 2015-2018 The ALTC developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -93,10 +93,10 @@ void OptionsModel::Init()
         settings.setValue("nPreferredDenom", 0);
     nPreferredDenom = settings.value("nPreferredDenom", "0").toLongLong();
 
-    if (!settings.contains("nAnonymizePulseAmount"))
-        settings.setValue("nAnonymizePulseAmount", 1000);
+    if (!settings.contains("nAnonymizeALTCAmount"))
+        settings.setValue("nAnonymizeALTCAmount", 1000);
 
-    nAnonymizePulseAmount = settings.value("nAnonymizePulseAmount").toLongLong();
+    nAnonymizeALTCAmount = settings.value("nAnonymizeALTCAmount").toLongLong();
 
     if (!settings.contains("fShowMasternodesTab"))
         settings.setValue("fShowMasternodesTab", masternodeConfig.getCount());
@@ -170,8 +170,8 @@ void OptionsModel::Init()
         SoftSetArg("-zeromintpercentage", settings.value("nZeromintPercentage").toString().toStdString());
     if (settings.contains("nPreferredDenom"))
         SoftSetArg("-preferredDenom", settings.value("nPreferredDenom").toString().toStdString());
-    if (settings.contains("nAnonymizePulseAmount"))
-        SoftSetArg("-anonymizeALTCamount", settings.value("nAnonymizePulseAmount").toString().toStdString());
+    if (settings.contains("nAnonymizeALTCAmount"))
+        SoftSetArg("-anonymizeALTCamount", settings.value("nAnonymizeALTCAmount").toString().toStdString());
 
     language = settings.value("language").toString();
 }
@@ -264,8 +264,8 @@ QVariant OptionsModel::data(const QModelIndex& index, int role) const
             return QVariant(nZeromintPercentage);
         case ZeromintPrefDenom:
             return QVariant(nPreferredDenom);
-        case AnonymizePulseAmount:
-            return QVariant(nAnonymizePulseAmount);
+        case AnonymizeALTCAmount:
+            return QVariant(nAnonymizeALTCAmount);
         case Listen:
             return settings.value("fListen");
         default:
@@ -398,10 +398,10 @@ bool OptionsModel::setData(const QModelIndex& index, const QVariant& value, int 
             settings.setValue("fHideOrphans", fHideOrphans);
             emit hideOrphansChanged(fHideOrphans);
             break;
-        case AnonymizePulseAmount:
-            nAnonymizePulseAmount = value.toInt();
-            settings.setValue("nAnonymizePulseAmount", nAnonymizePulseAmount);
-            emit anonymizePulseAmountChanged(nAnonymizePulseAmount);
+        case AnonymizeALTCAmount:
+            nAnonymizeALTCAmount = value.toInt();
+            settings.setValue("nAnonymizeALTCAmount", nAnonymizeALTCAmount);
+            emit anonymizeALTCAmountChanged(nAnonymizeALTCAmount);
             break;
         case CoinControlFeatures:
             fCoinControlFeatures = value.toBool();

@@ -1,6 +1,6 @@
 // Copyright (c) 2011-2013 The Bitcoin developers
 // Copyright (c) 2017-2018 The Pivx developers
-// Copyright (c) 2017-2018 The Pulse developers
+// Copyright (c) 2017-2018 The ALTC developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -32,7 +32,7 @@ class QUrl;
 class QWidget;
 QT_END_NAMESPACE
 
-/** Utility functions used by the Pulse Qt UI.
+/** Utility functions used by the ALTC Qt UI.
  */
 namespace GUIUtil
 {
@@ -40,7 +40,7 @@ namespace GUIUtil
 QString dateTimeStr(const QDateTime& datetime);
 QString dateTimeStr(qint64 nTime);
 
-// Render Pulse addresses in monospace font
+// Render ALTC addresses in monospace font
 QFont bitcoinAddressFont();
 
 // Set up widgets for address and amounts

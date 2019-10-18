@@ -2,7 +2,7 @@
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2018 The PIVX developers
-// Copyright (c) 2018 The Pulse developers
+// Copyright (c) 2018 The ALTC developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -38,7 +38,7 @@ using namespace std;
 
 //////////////////////////////////////////////////////////////////////////////
 //
-// PulseMiner
+// ALTCMiner
 //
 
 //
@@ -491,7 +491,7 @@ bool ProcessBlockFound(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
     {
         LOCK(cs_main);
         if (pblock->hashPrevBlock != chainActive.Tip()->GetBlockHash())
-            return error("PulseMiner : generated block is stale");
+            return error("ALTCMiner : generated block is stale");
     }
 
     // Remove key from key pool
@@ -511,7 +511,7 @@ bool ProcessBlockFound(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
     if (!ProcessNewBlock(state, NULL, pblock)) {
         if (pblock->IsZerocoinStake())
             pwalletMain->zALTCTracker->RemovePending(pblock->vtx[1].GetHash());
-        return error("PulseMiner : ProcessNewBlock, block not accepted");
+        return error("ALTCMiner : ProcessNewBlock, block not accepted");
     }
 
     for (CNode* node : vNodes) {
@@ -528,7 +528,7 @@ int nMintableLastCheck = 0;
 // ***TODO*** that part changed in bitcoin, we are using a mix with old one here for now
 void BitcoinMiner(CWallet* pwallet, bool fProofOfStake)
 {
-    LogPrintf("PulseMiner started\n");
+    LogPrintf("ALTCMiner started\n");
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
     RenameThread("ALTC-miner");
 
@@ -621,7 +621,7 @@ void BitcoinMiner(CWallet* pwallet, bool fProofOfStake)
             continue;
         }
 
-        LogPrintf("Running PulseMiner with %u transactions in block (%u bytes)\n", pblock->vtx.size(),
+        LogPrintf("Running ALTCMiner with %u transactions in block (%u bytes)\n", pblock->vtx.size(),
             ::GetSerializeSize(*pblock, SER_NETWORK, PROTOCOL_VERSION));
 
         //

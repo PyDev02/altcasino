@@ -1,5 +1,5 @@
 // Copyright (c) 2017-2018 The Pivx developers
-// Copyright (c) 2017-2018 The Pulse developers
+// Copyright (c) 2017-2018 The ALTC developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -479,7 +479,7 @@ void BlockExplorer::showEvent(QShowEvent*)
 
         if (!GetBoolArg("-txindex", true)) {
             QString Warning = tr("Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (ALTC.conf).");
-            QMessageBox::warning(this, "Pulse Core Blockchain Explorer", Warning, QMessageBox::Ok);
+            QMessageBox::warning(this, "ALTC Core Blockchain Explorer", Warning, QMessageBox::Ok);
         }
     }
 }

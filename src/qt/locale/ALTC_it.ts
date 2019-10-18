@@ -62,12 +62,12 @@
         <translation>Indirizzi di ricezione</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Questi sono gli indirizzi Pulse per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
+        <source>These are your ALTC addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Questi sono gli indirizzi ALTC per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
     </message>
     <message>
-        <source>These are your Pulse addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Questi sono gli indirizzi Pulse per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
+        <source>These are your ALTC addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Questi sono gli indirizzi ALTC per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Conferma cifratura portafoglio</translation>
     </message>
     <message>
-        <source>Pulse will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
-        <translation>Pulse verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi ALTC dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
+        <source>ALTC will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ALTCs from being stolen by malware infecting your computer.</source>
+        <translation>ALTC verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi ALTC dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -254,12 +254,12 @@
         <translation>Indirizzo:</translation>
     </message>
     <message>
-        <source>Enter a Pulse Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Inserire un indirizzo Pulse da crittografare utilizzando BIP 38. Inserire una password nel campo centrale. Cliccare su "cripta" per generare la chiave privata crittografata.</translation>
+        <source>Enter a ALTC Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Inserire un indirizzo ALTC da crittografare utilizzando BIP 38. Inserire una password nel campo centrale. Cliccare su "cripta" per generare la chiave privata crittografata.</translation>
     </message>
     <message>
-        <source>The Pulse address to encrypt</source>
-        <translation>Indirizzo Pulse da crittografare</translation>
+        <source>The ALTC address to encrypt</source>
+        <translation>Indirizzo ALTC da crittografare</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Pulse address</source>
-        <translation>Crittografa la chiave privata per questo indirizzo Pulse</translation>
+        <source>Encrypt the private key for this ALTC address</source>
+        <translation>Crittografa la chiave privata per questo indirizzo ALTC</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,12 +645,12 @@
         <translation>Schede degli strumenti</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
-        <source>Send coins to a Pulse address</source>
-        <translation>Invia valuta all'indirizzo Pulse</translation>
+        <source>Send coins to a ALTC address</source>
+        <translation>Invia valuta all'indirizzo ALTC</translation>
     </message>
     <message>
         <source>Request Payments (generates QR codes and ALTC: URIs)</source>
@@ -669,24 +669,24 @@
         <translation>Esplora i masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Pulse Core</source>
-        <translation>&amp;Informazioni Pulse Core</translation>
+        <source>&amp;About ALTC Core</source>
+        <translation>&amp;Informazioni ALTC Core</translation>
     </message>
     <message>
-        <source>Show information about Pulse Core</source>
-        <translation>Visualizza informazioni su Pulse Core</translation>
+        <source>Show information about ALTC Core</source>
+        <translation>Visualizza informazioni su ALTC Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Pulse</source>
-        <translation>Modifica le opzioni di configurazione per Pulse</translation>
+        <source>Modify configuration options for ALTC</source>
+        <translation>Modifica le opzioni di configurazione per ALTC</translation>
     </message>
     <message>
-        <source>Sign messages with your Pulse addresses to prove you own them</source>
-        <translation>Firma i messaggi con i tuoi indirizzi Pulse per dimostrare di essere il proprietario </translation>
+        <source>Sign messages with your ALTC addresses to prove you own them</source>
+        <translation>Firma i messaggi con i tuoi indirizzi ALTC per dimostrare di essere il proprietario </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Pulse addresses</source>
-        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi Pulse specifici</translation>
+        <source>Verify messages to ensure they were signed with specified ALTC addresses</source>
+        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi ALTC specifici</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Apri file di configurazione del Masternodo</translation>
     </message>
     <message>
-        <source>Open a Pulse: URI or payment request</source>
-        <translation>Apri un Pulse: URI o richiesta di pagamento</translation>
+        <source>Open a ALTC: URI or payment request</source>
+        <translation>Apri un ALTC: URI o richiesta di pagamento</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,15 +729,15 @@
         <translation>Finestra Block Explorer</translation>
     </message>
     <message>
-        <source>Show the Pulse Core help message to get a list with possible Pulse command-line options</source>
-        <translation>Mostra il messaggio di aiuto Pulse Core per ottenere un elenco con le possibili opzioni di riga di comando Pulse</translation>
+        <source>Show the ALTC Core help message to get a list with possible ALTC command-line options</source>
+        <translation>Mostra il messaggio di aiuto ALTC Core per ottenere un elenco con le possibili opzioni di riga di comando ALTC</translation>
     </message>
     <message>
-        <source>Pulse Core client</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core client</source>
+        <translation>ALTC Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Pulse network</source>
+        <source>%n active connection(s) to ALTC network</source>
         <translation><numerusform>%n connessione attiva alla rete ALTCIX</numerusform><numerusform>%n connessioni attive alla rete ALTCIX</numerusform></translation>
     </message>
     <message>
@@ -1173,8 +1173,8 @@ MultiSend: %1</translation>
         <translation>Modifica indirizzo di invio</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Pulse address.</source>
-        <translation>L'indirizzo inserito "%1" non è un indirizzo Pulse valido.</translation>
+        <source>The entered address "%1" is not a valid ALTC address.</source>
+        <translation>L'indirizzo inserito "%1" non è un indirizzo ALTC valido.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1219,16 +1219,16 @@ MultiSend: %1</translation>
         <translation>versione</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Pulse Core</source>
-        <translation>Informazioni su Pulse Core</translation>
+        <source>About ALTC Core</source>
+        <translation>Informazioni su ALTC Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1274,16 +1274,16 @@ MultiSend: %1</translation>
         <translation>Benvenuto</translation>
     </message>
     <message>
-        <source>Welcome to Pulse Core.</source>
+        <source>Welcome to ALTC Core.</source>
         <translation>Benvenuto in ALTCIX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Pulse Core will store its data.</source>
-        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove Pulse Core salverà i propri dati.</translation>
+        <source>As this is the first time the program is launched, you can choose where ALTC Core will store its data.</source>
+        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove ALTC Core salverà i propri dati.</translation>
     </message>
     <message>
-        <source>Pulse Core will download and store a copy of the Pulse block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Pulse Core scaricherà e salverà una copia della blockchain Pulse. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
+        <source>ALTC Core will download and store a copy of the ALTC block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>ALTC Core scaricherà e salverà una copia della blockchain ALTC. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1294,8 +1294,8 @@ MultiSend: %1</translation>
         <translation>Utilizza una cartella dati personalizzata:</translation>
     </message>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1436,12 +1436,12 @@ MultiSend: %1</translation>
         <translation>Inserire indirizzo destinatario</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Pulse addresses after it matures.
-To Add: enter percentage to give and Pulse address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other ALTC addresses after it matures.
+To Add: enter percentage to give and ALTC address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend ti permette di inviare automaticamente ad una lista di indirizzi Pulse fino al 100% delle ricompense di stake o masternodi, dopo che queste sono mature.
-Per Aggiunger: inserisci la percentuale da inviare e l'indirizzo Pulse da aggiungere al vettore MultiSend.
+        <translation>MultiSend ti permette di inviare automaticamente ad una lista di indirizzi ALTC fino al 100% delle ricompense di stake o masternodi, dopo che queste sono mature.
+Per Aggiunger: inserisci la percentuale da inviare e l'indirizzo ALTC da aggiungere al vettore MultiSend.
 Per Eliminare: Inserisci l'indirizzo da eliminare e premi elimina.
 MultiSend non verrà attivato a meno che tu non prema su Attiva</translation>
     </message>
@@ -1804,8 +1804,8 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Saldo corrente bloccato in indirizzi sola-lettura.</translation>
     </message>
     <message>
-        <source>Your current Pulse balance, unconfirmed and immature transactions included</source>
-        <translation>Il tuo saldo Pulse corrente, incluse le transazioni non confermate e non mature</translation>
+        <source>Your current ALTC balance, unconfirmed and immature transactions included</source>
+        <translation>Il tuo saldo ALTC corrente, incluse le transazioni non confermate e non mature</translation>
     </message>
     <message>
         <source>zALTC Balance</source>
@@ -2483,8 +2483,8 @@ Per cambiare la percentuale (riavvio non necessario):
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Pulse address to sign the message with</source>
-        <translation>L'indirizzo Pulse per firmare il messaggio con</translation>
+        <source>The ALTC address to sign the message with</source>
+        <translation>L'indirizzo ALTC per firmare il messaggio con</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2507,16 +2507,16 @@ Per cambiare la percentuale (riavvio non necessario):
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Pulse address</source>
-        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo Pulse</translation>
+        <source>Sign the message to prove you own this ALTC address</source>
+        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo ALTC</translation>
     </message>
     <message>
-        <source>The Pulse address the message was signed with</source>
-        <translation>L'indirizzo Pulse con cui è stato firmato il messaggio</translation>
+        <source>The ALTC address the message was signed with</source>
+        <translation>L'indirizzo ALTC con cui è stato firmato il messaggio</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Pulse address</source>
-        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo Pulse specificato </translation>
+        <source>Verify the message to ensure it was signed with the specified ALTC address</source>
+        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo ALTC specificato </translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -2554,8 +2554,8 @@ Per cambiare la percentuale (riavvio non necessario):
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Pulse Core</source>
-        <translation>Pulse Core</translation>
+        <source>ALTC Core</source>
+        <translation>ALTC Core</translation>
     </message>
     </context>
 <context>

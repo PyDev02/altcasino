@@ -23,7 +23,7 @@ packages:
 - "python"
 - "rename"
 remotes:
-- "url": "https://github.com/Pulse-Developer/ALTC-core.git"
+- "url": "https://github.com/ALTC-Developer/ALTC-core.git"
   "dir": "ALTC"
 files: []
 script: |
